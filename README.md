@@ -51,6 +51,7 @@ GFO must not be described as:
 | `04-evidence-preservation.md` | Records to preserve for court-readiness |
 | `05-court-ready-disclaimer.md` | Public legal disclaimer |
 | `06-book-description-restricted.md` | Restricted Amazon/back-cover description |
+| `REFERENCES.md` | Non-binding research references, including Agent’s Law Dictionary: On-Chain AI Edition |
 | `CHANGELOG.md` | Version history |
 
 ## Legal Status
