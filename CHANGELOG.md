@@ -25,6 +25,19 @@ This changelog exists to preserve version-control integrity, board-review histor
 - Framework does not claim completed compliance.
 - Framework anchors all public language to the principle: “GFO coordinates the experiment. GFO does not custody the public.”
 
+## [0.1.1] - 2026-06-13
+
+### Added
+
+- Added `governance/LEGAL_REVIEW_PROTOCOL.md` to classify board-review, counsel-review, and editorial changes.
+- Added `.github/CODEOWNERS` for legal-framework file review.
+- Added `.github/PULL_REQUEST_TEMPLATE/gfo-legal-framework.md` for legal-risk pull request review.
+- Added README governance controls section.
+
+### Governance Notes
+
+- Material legal-framework changes should be reviewed before public release.
+- Pull requests must confirm that changes preserve the non-custodial, no-investment-promise, no-redemption-guarantee, and no-public-asset-management posture.
 ### Audit Notes
 
 - Added README status banner.
