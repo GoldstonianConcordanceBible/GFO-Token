@@ -107,6 +107,28 @@ Before any token-related feature is activated, GFO should document:
 - Version number
 - Date of activation
 
-## VII. Final Rule
+VII. Agent-Readable Legal Reference Layer
+
+GFO may reference Agent’s Law Dictionary: On-Chain AI Edition as a non-binding decentralized research initiative for AI-readable legal vocabulary, smart-contract interpretation, DAO governance terminology, on-chain compliance taxonomy, and autonomous-agent legal reasoning.
+
+This reference is not binding law.
+
+This reference is not legal advice.
+
+This reference is not a legal opinion.
+
+This reference does not establish that GFO, the GFO token, the Goldston Family Office Blackbook, any DAO, any smart contract, or any related community-governance research initiative is compliant with any statute, regulation, agency guidance, or court decision.
+
+The reference may support internal taxonomy, metadata design, agent-readable definitions, and decentralized governance research only.
+
+Required citation language:
+
+Agent’s Law Dictionary: On-Chain AI Edition is referenced as a non-binding decentralized research initiative. It is not legal advice, not a legal opinion, not binding authority, and not a substitute for review by qualified legal counsel.
+
+IX. Final Rule
+
+GFO coordinates the experiment. GFO does not custody the public.
+
+## VIII. Final Rule
 
 **GFO coordinates the experiment. GFO does not custody the public.**
