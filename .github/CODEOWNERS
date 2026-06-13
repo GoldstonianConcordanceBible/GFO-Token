@@ -1,0 +1,6 @@
+# GFO Token Legal Framework ownership
+# Legal-framework files require review before public release.
+
+legal-frameworks/gfo-token/ @sydtektypeform
+legal-frameworks/gfo-token/*.md @sydtektypeform
+legal-frameworks/gfo-token/governance/*.md @sydtektypeform
