@@ -54,6 +54,17 @@ GFO must not be described as:
 | `REFERENCES.md` | Non-binding research references, including Agent’s Law Dictionary: On-Chain AI Edition |
 | `CHANGELOG.md` | Version history |
 
+## Governance Controls
+
+Changes to this framework should follow:
+
+- `governance/LEGAL_REVIEW_PROTOCOL.md`
+- `.github/CODEOWNERS`
+- `.github/PULL_REQUEST_TEMPLATE/gfo-legal-framework.md`
+
+Material changes involving custody, securities, investment adviser status, money transmission, tax treatment, token redemption, treasury-linked benefits, DAO governance, or public asset management should be reviewed before public release.
+
+**GFO coordinates the experiment. GFO does not custody the public.**
 ## Legal Status
 
 This repository content is not legal advice. It is a governance and documentation framework prepared for attorney review, board adoption, public-record consistency, and risk-control planning.
