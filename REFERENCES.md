@@ -1,3 +1,5 @@
+
+#Agent’s Law Dictionary: On-Chain AI Edition
 Purpose
 
 This file records conceptual, research, and interpretive references used to support the Goldston Family Office Token Legal Framework.
