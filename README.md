@@ -1,78 +1,57 @@
-# Goldston Family Office Token Framework
+# GFO Token — Public Governance and Transparency Framework
 
-> Status: Draft for attorney review, board record, and public-disclosure alignment. Not legal advice.
+This repository contains the public governance, legal-risk, non-custody, contract-management, investor-disclosure, evidence-preservation, and publishing-disclosure framework for the Goldston Family Office Blackbook and any related GFO token, digital asset, DAO discussion, educational initiative, public-facing publication, or community-governance research initiative.
 
-## Court-Ready, Lawyer-Reviewable, Board-Recordable Framework
+## Purpose
 
-This folder contains the governance, legal-risk, non-custody, public-communications, evidence-preservation, and publishing-disclosure framework for the Goldston Family Office Blackbook and any related GFO token, digital asset, DAO discussion, educational initiative, public-facing publication, or community-governance research initiative.
+The purpose of this repository is to provide a transparent, public-facing record of GFO’s operating principles, disclosure posture, documentation standards, governance safeguards, and non-custodial digital asset policies.
 
-This framework is designed to support:
+This repository is designed to support:
 
-- Board review
-- Attorney review
-- Court-ready documentation
-- Public disclosure consistency
-- Non-custodial token governance
-- Securities-law risk reduction
-- Money-transmission risk reduction
-- Evidence preservation
-- Version-controlled compliance history
+- public transparency
+- investor diligence
+- court-ready documentation
+- contract management
+- educational publishing
+- non-custodial digital asset research
+- governance accountability
+- evidence preservation
+- public communications review
 
-## Core Governing Principle
+## Public Disclosure Position
 
-**GFO coordinates the experiment. GFO does not custody the public.**
+GFO is not presented as a bank, broker-dealer, investment adviser, exchange, custodian, or guaranteed-yield product.
 
-GFO may be described as a research, publishing, governance, identity, education, and community-coordination framework.
+Any public-facing GFO-related materials should be understood as educational, governance, publishing, research, community, or family-office infrastructure documentation unless otherwise stated in a formal legal document.
 
-GFO must not be described as:
+## Core Principles
 
-- A bank
-- A broker-dealer
-- An exchange
-- An investment adviser
-- A trust company
-- A custodian
-- A commodity pool
-- A money transmitter
-- A managed account platform
-- A public family-office service
-- A redemption product
-- A yield product
-- A profit-sharing structure
+1. Documentation before promotion.
+2. Governance before tokenization.
+3. Non-custody before participation.
+4. Public disclosure before public offering.
+5. Evidence preservation before dispute.
+6. Contract clarity before revenue recognition.
+7. Investor transparency before capital formation.
+8. Educational purpose before speculation.
 
-## Folder Contents
+## Repository Scope
 
-| File | Purpose |
-|---|---|
-| `00-board-record.md` | Board-recordable purpose and resolution |
-| `01-non-custody-policy.md` | Non-custody operating boundary |
-| `02-token-risk-controls.md` | Securities, MSB, tax, and token-risk controls |
-| `03-public-communications-policy.md` | Approved and prohibited language |
-| `04-evidence-preservation.md` | Records to preserve for court-readiness |
-| `05-court-ready-disclaimer.md` | Public legal disclaimer |
-| `06-book-description-restricted.md` | Restricted Amazon/back-cover description |
-| `REFERENCES.md` | Non-binding research references, including Agent’s Law Dictionary: On-Chain AI Edition |
-| `CHANGELOG.md` | Version history |
+This repository may include:
 
-## Governance Controls
+- governance policies
+- contract-management templates
+- disclosure frameworks
+- public communications rules
+- investor-readiness summaries
+- evidence-preservation logs
+- publishing-disclosure standards
+- non-custody digital asset policies
+- related-party transaction policies
+- monthly reporting templates
 
-Changes to this framework should follow:
+## Private Records
 
-- `governance/LEGAL_REVIEW_PROTOCOL.md`
-- `.github/CODEOWNERS`
-- `.github/PULL_REQUEST_TEMPLATE/gfo-legal-framework.md`
+This public repository does not contain private contracts, bank records, personal family records, court filings, tax records, investor-identifying information, or confidential business documents.
 
-Material changes involving custody, securities, investment adviser status, money transmission, tax treatment, token redemption, treasury-linked benefits, DAO governance, or public asset management should be reviewed before public release.
-
-**GFO coordinates the experiment. GFO does not custody the public.**
-## Legal Status
-
-This repository content is not legal advice. It is a governance and documentation framework prepared for attorney review, board adoption, public-record consistency, and risk-control planning.
-
-No public-facing material should claim that GFO is “fully compliant” unless reviewed and approved in writing by qualified counsel.
-
-No public-facing material should state that GFO is outside securities, commodities, custody, banking, money-transmission, tax, or investment-adviser rules unless supported by written legal review.
-
-## Anchor Statement
-
-**GFO coordinates the experiment. GFO does not custody the public.**
+Private records are maintained separately in a secure data room or internal recordkeeping system.
