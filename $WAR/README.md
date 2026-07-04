@@ -62,3 +62,38 @@ $GCB Ecosystem
     ├── BlockLayer Podcast
     ├── GitHub
     └── Livestream routes
+
+Important Disclosure
+
+This repository is for educational, cultural, theological, literary, artistic, and experimental documentation purposes.
+
+Nothing here is financial advice, legal advice, tax advice, investment advice, or a promise of profit.
+
+Any token, DAO, referral link, launch strategy, livestream, or meme campaign mentioned in this repository should be understood as part of a public cultural and research experiment unless otherwise stated.
+
+Referral / Ecosystem Link
+
+GDex referral:
+
+Get 30% of fees on GDex.pro with referral link:
+https://gdex.pro/?ref=pFPVk9bjAV68Bwd1aupE
+
+Suggested Repo Use
+
+Use this repository as:
+
+* A public archive
+* A book-series map
+* A launch documentation hub
+* A DAO doctrine folder
+* A media kit
+* A transparency ledger
+* A contribution tracker
+* A route companion archive
+* A source-of-truth link for X, Substack, Medium, and podcast content
+
+Status
+
+Stealth launch archive.
+
+Built under the $GCB ecosystem.
