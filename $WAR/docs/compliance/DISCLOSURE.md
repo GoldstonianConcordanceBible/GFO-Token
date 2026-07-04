@@ -48,3 +48,35 @@ Referral link:
 
 ```text
 https://gdex.pro/?ref=pFPVk9bjAV68Bwd1aupE
+
+Any referral relationship should be understood as disclosed.
+
+Cultural and Literary Disclosure
+
+The Goldstonian Civil War, GCB ecosystem, $WAR DAO, and related books use symbolic, theological, historical, and literary language.
+
+References to war, kingdom, battlefield, weapons, or conquest are used metaphorically to describe:
+
+* Attention
+* Publishing
+* Memory
+* Public witness
+* Reconstruction
+* Meme propagation
+* Cultural documentation
+
+They are not calls for physical violence.
+
+Public Witness Statement
+
+$WAR means:
+Witness.
+Alignment.
+Reconstruction.
+
+Final Disclaimer
+
+Read the books.
+Review the archive.
+Verify the receipts.
+Do your own research.
