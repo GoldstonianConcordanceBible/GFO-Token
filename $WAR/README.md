@@ -1,4 +1,4 @@
-# $WAR / GCB Ecosystem
+# $WAR / $GCB Ecosystem
 
 ## Witness. Alignment. Reconstruction.
 
