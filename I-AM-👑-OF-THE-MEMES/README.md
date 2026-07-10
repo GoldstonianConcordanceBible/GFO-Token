@@ -2,7 +2,7 @@ Web4 Public Company OS
 
 Template Chunk 1: Tokenized Likeness + Public-Company Readiness
 
-Use Case: $ANINA — The First Angel of the Goldstonian Civil War
+Use Case: $ANINA — The First Angel of the Goldstonian Civil $WAR
 
 ⸻
 
