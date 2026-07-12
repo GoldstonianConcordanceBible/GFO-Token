@@ -1,0 +1,1327 @@
+RQ138–RQ162: Repository Governance, Licensing, and Runic Consulting
+
+Parent repository: GFO-token
+Folder: /web4-global-social-experiment/research-questions/
+Status: Canonical domain question file
+Version: 0.1.0-draft
+Master register: ../03_RESEARCH_QUESTION_REGISTER.md
+Directory guide: README.md
+
+⸻
+
+1. Purpose
+
+This file contains the research questions governing:
+
+1. governance of the canonical repository;
+2. stewardship, ownership, branch protection, and release authority;
+3. compatibility, conformance, forks, licensing, trademarks, and certification;
+4. commercial value and maintenance of jurisdiction and industry packs;
+5. Runic Consulting discovery, delivery, confidentiality, readiness assessment, monitoring, and third-party licensing.
+
+These questions support the transition from a research repository into a maintainable, licensable, and implementation-ready governance product without allowing commercial interests to override research integrity, legal accuracy, or quality control.
+
+⸻
+
+Part XI — Repository Governance and Licensing
+
+RQ138 — Governance of the Repository
+
+Research Question
+
+How should the repository itself be governed?
+
+Short Title
+
+Repository Governance Model
+
+Purpose
+
+This question defines the authority, procedures, controls, and accountability structures governing the canonical research repository.
+
+Candidate Governance Areas
+
+* repository ownership;
+* domain stewardship;
+* contribution review;
+* branch protection;
+* release approval;
+* emergency changes;
+* legal corrections;
+* security corrections;
+* deprecation;
+* archival;
+* and dispute resolution.
+
+Required Principles
+
+version-control
+separation-of-duties
+least-privilege
+documented-review
+provenance
+dissent-preservation
+release-discipline
+conflict-disclosure
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ5
+RQ7
+RQ139
+RQ140
+RQ141
+RQ142
+
+⸻
+
+RQ139 — Domain Ownership and Stewardship
+
+Research Question
+
+Who owns or stewards each governance domain?
+
+Short Title
+
+Domain Stewardship
+
+Purpose
+
+This question assigns accountable ownership without implying unrestricted unilateral control.
+
+Candidate Domains
+
+research-methodology
+web4-theory
+web4-nil
+dao-governance
+policy-to-code
+legal-verification
+privacy
+compensation
+education
+culture-and-theology
+healthcare
+licensing
+prompt-backend
+technical-implementation
+
+Steward Responsibilities
+
+* maintain accuracy;
+* review changes;
+* monitor dependencies;
+* resolve open issues;
+* disclose conflicts;
+* and approve or reject proposed updates within delegated authority.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ90
+RQ138
+RQ140
+RQ141
+RQ152
+
+⸻
+
+RQ140 — CODEOWNERS and Branch Protection
+
+Research Question
+
+How should CODEOWNERS, branch protection, review requirements, and release authority be structured?
+
+Short Title
+
+Repository Access and Review Controls
+
+Candidate Controls
+
+* required pull requests;
+* minimum reviewer count;
+* domain-specific CODEOWNERS;
+* signed commits where appropriate;
+* status checks;
+* protected release branches;
+* prohibited force pushes;
+* and restricted tag creation.
+
+High-Risk Review Areas
+
+* legal claims;
+* privacy policy;
+* compensation;
+* security;
+* smart contracts;
+* identity schemas;
+* and certification language.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ90
+RQ138
+RQ139
+RQ141
+RQ143
+
+⸻
+
+RQ141 — Document Dependency Versioning
+
+Research Question
+
+How should document dependencies be versioned and audited?
+
+Short Title
+
+Dependency Governance
+
+Purpose
+
+This question ensures that changes to one document do not silently invalidate related standards, schemas, prompts, code, or publications.
+
+Required Dependency Types
+
+depends-on
+implements
+interprets
+supersedes
+derived-from
+maps-to
+requires-review-from
+
+Candidate Records
+
+* dependency manifest;
+* source-map;
+* version compatibility table;
+* broken-link check;
+* and release-impact report.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ7
+RQ138
+RQ140
+RQ143
+RQ216
+RQ222
+
+⸻
+
+RQ142 — Detecting Scope Drift
+
+Research Question
+
+How should scope drift be detected and recorded?
+
+Short Title
+
+Scope-Drift Control
+
+Candidate Indicators
+
+* content without a research-question link;
+* unsupported commercial expansion;
+* marketing presented as evidence;
+* project-specific branding embedded as universal standard;
+* new regulated use without review;
+* and derivative content becoming canonical without approval.
+
+Required Response
+
+* create issue;
+* classify drift;
+* identify affected files;
+* assign owner;
+* correct or archive content;
+* and update release notes where material.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ3
+RQ4
+RQ138
+RQ141
+RQ224
+
+⸻
+
+RQ143 — Breaking Changes
+
+Research Question
+
+What constitutes a breaking change to the Web4 NIL standard?
+
+Short Title
+
+Breaking-Change Definition
+
+Candidate Breaking Changes
+
+* removing a required consent field;
+* changing identity-vector meaning;
+* changing authorization lifecycle semantics;
+* changing conformance requirements;
+* changing reserved matters;
+* changing compensation calculation logic;
+* or invalidating prior implementation compatibility.
+
+Required Actions
+
+* major version increment;
+* migration guidance;
+* compatibility warning;
+* affected-system inventory;
+* and release approval.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ62
+RQ66
+RQ140
+RQ141
+RQ144
+RQ150
+
+⸻
+
+RQ144 — Fork Compatibility and Conformance
+
+Research Question
+
+How should forks claim compatibility or conformance?
+
+Short Title
+
+Fork and Compatibility Claims
+
+Candidate Labels
+
+derived-from
+compatible-with
+partially-compatible
+conformant-to-version
+independently-extended
+nonconformant
+
+Requirements
+
+A fork should identify:
+
+* source version;
+* modified files;
+* breaking changes;
+* unsupported features;
+* testing status;
+* and trademark limitations.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ64
+RQ65
+RQ143
+RQ147
+RQ151
+
+⸻
+
+RQ145 — Open, Source-Available, Commercial, and Restricted Materials
+
+Research Question
+
+What materials should be open, source-available, commercially licensed, or restricted?
+
+Short Title
+
+Content Access and License Classification
+
+Candidate Open Materials
+
+* public research questions;
+* public methodology;
+* public definitions;
+* selected schemas;
+* public findings;
+* and basic educational materials.
+
+Candidate Commercial Materials
+
+* implementation templates;
+* jurisdiction packs;
+* industry packs;
+* readiness assessments;
+* enterprise adapters;
+* and consultant toolkits.
+
+Candidate Restricted Materials
+
+* private datasets;
+* executed agreements;
+* confidential client materials;
+* security findings;
+* and licensed institutional content.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ6
+RQ128
+RQ129
+RQ146
+RQ148
+RQ149
+
+⸻
+
+RQ146 — License Selection
+
+Research Question
+
+Which materials should use Creative Commons, Apache, MIT, proprietary, or dual licensing?
+
+Short Title
+
+License Architecture
+
+Candidate Mapping
+
+documentation → Creative Commons or proprietary
+code → Apache-2.0 or MIT
+schemas → open or dual-licensed
+commercial templates → proprietary
+research data → restricted or research-use license
+brand assets → trademark policy
+
+Required Considerations
+
+* attribution;
+* commercial use;
+* modification;
+* patent protection;
+* redistribution;
+* source availability;
+* and compatibility.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ145
+RQ147
+RQ148
+RQ162
+
+⸻
+
+RQ147 — Trademarks and Certification Marks
+
+Research Question
+
+How should trademarks, certification marks, and brand use be separated from document and code licenses?
+
+Short Title
+
+Brand and License Separation
+
+Principle
+
+Permission to use code or documentation does not automatically grant permission to use:
+
+* Web4 NIL marks;
+* GFO marks;
+* Runic Consulting marks;
+* certification marks;
+* logos;
+* or endorsement language.
+
+Required Documents
+
+* trademark policy;
+* brand-use guidelines;
+* compatibility-claim policy;
+* and certification-mark policy where applicable.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ144
+RQ145
+RQ146
+RQ148
+RQ151
+
+⸻
+
+RQ148 — Licensing Tiers
+
+Research Question
+
+What should distinguish community, professional, enterprise, jurisdiction, industry, consulting, and certification licenses?
+
+Short Title
+
+License Tier Design
+
+Candidate Tier Differences
+
+Tier	Candidate Access
+Community	Public definitions, questions, and basic guidance
+Professional	Templates, checklists, and assessment tools
+Enterprise	Private deployment support and custom integration
+Jurisdiction	Legal and policy mapping for a defined jurisdiction
+Industry	Sector-specific governance and control mappings
+Consulting	Licensed client-delivery methodology
+Certification	Version-specific assessment and mark-use rights
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ145
+RQ146
+RQ147
+RQ149
+RQ150
+RQ151
+
+⸻
+
+RQ149 — Commercial Value Drivers
+
+Research Question
+
+What elements create the greatest commercial value: documents, schemas, updates, legal tracking, assessments, certification, consulting, or implementation support?
+
+Short Title
+
+Repository Commercial Value
+
+Candidate Value Sources
+
+* maintained standards;
+* current legal tracking;
+* validated schemas;
+* implementation tools;
+* readiness assessments;
+* conformance evidence;
+* training;
+* consulting;
+* and ongoing updates.
+
+Methodological Caution
+
+Commercial value should be studied separately from scholarly validity or legal authority.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ145
+RQ148
+RQ150
+RQ152
+RQ162
+
+⸻
+
+RQ150 — Maintenance of Jurisdiction and Industry Packs
+
+Research Question
+
+How should jurisdiction packs and industry packs be maintained over time?
+
+Short Title
+
+Pack Maintenance
+
+Required Elements
+
+* version;
+* jurisdiction or industry;
+* source authority;
+* review date;
+* legal-status register;
+* implementation assumptions;
+* affected standard version;
+* professional reviewer;
+* and expiration or next-review date.
+
+Risk
+
+A pack may become materially outdated while appearing current.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ35
+RQ119
+RQ120
+RQ143
+RQ148
+RQ151
+
+⸻
+
+RQ151 — Certification Without Compliance Claims
+
+Research Question
+
+How should certification avoid implying legal compliance?
+
+Short Title
+
+Conformance Versus Legal Compliance
+
+Required Distinctions
+
+documentation-conformance
+technical-conformance
+process-conformance
+version-conformance
+legal-compliance
+regulatory-approval
+security-certification
+
+Principle
+
+A repository-issued conformance result should state exactly what was assessed and what was not assessed.
+
+Required Disclaimer
+
+Certification must not imply legal, regulatory, tax, privacy, cybersecurity, medical, or financial approval unless the relevant qualified authority actually performed that assessment.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ127
+RQ143
+RQ144
+RQ147
+RQ148
+RQ150
+
+⸻
+
+Part XII — Runic Consulting
+
+RQ152 — Converting Ambiguous Use Cases Into Governance Systems
+
+Research Question
+
+How should Runic Consulting convert ambiguous Web4 identity use cases into implementable governance systems?
+
+Short Title
+
+Runic Use-Case Translation
+
+Proposed Translation Process
+
+client-goal
+→ identity-use-case
+→ rights-map
+→ stakeholder-map
+→ risk-map
+→ policy-requirements
+→ technical-requirements
+→ readiness-gates
+→ implementation-plan
+
+Required Outputs
+
+* documented assumptions;
+* unresolved questions;
+* risk classification;
+* professional-review needs;
+* and versioned recommendations.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ139
+RQ149
+RQ153
+RQ158
+RQ161
+
+⸻
+
+RQ153 — Client Discovery and Rights Mapping
+
+Research Question
+
+What should be included in client discovery and rights mapping?
+
+Short Title
+
+Client Discovery Standard
+
+Candidate Discovery Areas
+
+* people and organizations involved;
+* identity vectors;
+* intended uses;
+* platforms;
+* territories;
+* duration;
+* compensation;
+* data flows;
+* model providers;
+* autonomous actions;
+* DAO authority;
+* technical controls;
+* and existing agreements.
+
+Required Output
+
+use-case-inventory
+stakeholder-map
+rights-map
+data-map
+authority-map
+risk-register
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ55
+RQ58
+RQ60
+RQ152
+RQ154
+RQ158
+
+⸻
+
+RQ154 — Consulting Versus Professional Advice
+
+Research Question
+
+How should Runic distinguish consulting advice from legal, accounting, tax, privacy, audit, or regulatory advice?
+
+Short Title
+
+Professional Boundary Management
+
+Required Controls
+
+* written scope;
+* disclaimers;
+* professional-review triggers;
+* referral matrix;
+* prohibited representations;
+* and separate approval records.
+
+Principle
+
+Consulting may organize issues and implementation needs but should not impersonate licensed professional advice.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ116
+RQ125
+RQ126
+RQ151
+RQ155
+
+⸻
+
+RQ155 — Required Professional Referrals
+
+Research Question
+
+What professional referrals are required at each implementation phase?
+
+Short Title
+
+Professional Referral Matrix
+
+Candidate Referral Domains
+
+* legal;
+* tax;
+* accounting;
+* privacy;
+* cybersecurity;
+* smart-contract audit;
+* insurance;
+* healthcare compliance;
+* research ethics;
+* and accessibility.
+
+Candidate Phases
+
+discovery
+design
+contracting
+development
+testing
+publication
+activation
+monitoring
+incident-response
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ116
+RQ125
+RQ126
+RQ154
+RQ158
+RQ159
+
+⸻
+
+RQ156 — Client Confidentiality and Public Case Studies
+
+Research Question
+
+How should client confidentiality govern public case studies?
+
+Short Title
+
+Client Case-Study Confidentiality
+
+Required Controls
+
+* written permission;
+* approved classification;
+* deidentification;
+* review before publication;
+* restricted facts;
+* retention rules;
+* and withdrawal or correction procedure where contractually required.
+
+Principle
+
+A client’s participation in consulting does not automatically authorize public research use.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ129
+RQ153
+RQ157
+RQ159
+
+⸻
+
+RQ157 — Case-Study Labels
+
+Research Question
+
+How should actual, anonymized, composite, hypothetical, and simulated case studies be labeled?
+
+Short Title
+
+Case-Study Classification
+
+Approved Labels
+
+actual
+anonymized
+composite
+hypothetical
+simulated
+documentary
+comparative
+
+Required Rule
+
+A composite, hypothetical, or simulated case must not be presented as an actual client or institutional implementation.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ156
+RQ219
+
+⸻
+
+RQ158 — Evidence for Readiness Assessments
+
+Research Question
+
+What evidence is required before Runic issues a readiness assessment?
+
+Short Title
+
+Readiness Evidence Standard
+
+Candidate Evidence
+
+* approved policies;
+* executed agreements;
+* rights map;
+* legal review;
+* privacy review;
+* technical architecture;
+* control mapping;
+* test results;
+* incident procedures;
+* and responsible owners.
+
+Required Distinction
+
+A readiness assessment should separately evaluate:
+
+documentation-readiness
+legal-readiness
+technical-readiness
+privacy-readiness
+security-readiness
+operational-readiness
+activation-readiness
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ127
+RQ152
+RQ153
+RQ155
+RQ161
+
+⸻
+
+RQ159 — Post-Launch Monitoring
+
+Research Question
+
+How should client implementations be monitored after launch?
+
+Short Title
+
+Implementation Monitoring
+
+Candidate Monitoring Areas
+
+* authorization status;
+* model changes;
+* policy-control gaps;
+* incidents;
+* compensation reports;
+* access changes;
+* legal updates;
+* privacy events;
+* user complaints;
+* and control-test freshness.
+
+Candidate Review Frequency
+
+* event-driven;
+* monthly;
+* quarterly;
+* annual;
+* and before major upgrades.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ35
+RQ74
+RQ120
+RQ150
+RQ155
+RQ158
+
+⸻
+
+RQ160 — Conformance With the Runic Methodology
+
+Research Question
+
+What constitutes conformance with the Runic implementation methodology?
+
+Short Title
+
+Runic Methodology Conformance
+
+Candidate Requirements
+
+* completed discovery;
+* documented rights map;
+* authority hierarchy;
+* risk register;
+* policy requirements;
+* technical mapping;
+* professional referrals;
+* readiness assessment;
+* and monitoring plan.
+
+Principle
+
+Conformance should be version-specific and evidence-based.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ151
+RQ152
+RQ153
+RQ158
+RQ161
+RQ162
+
+⸻
+
+RQ161 — Documentation Maturity Versus Activation Readiness
+
+Research Question
+
+How should Runic assess documentation maturity separately from activation readiness?
+
+Short Title
+
+Two-Layer Readiness Assessment
+
+Documentation Maturity May Include
+
+* complete policies;
+* defined roles;
+* versioned agreements;
+* schemas;
+* procedures;
+* and mapped requirements.
+
+Activation Readiness May Require
+
+* executed agreements;
+* deployed controls;
+* completed legal review;
+* security testing;
+* operational training;
+* and verified incident response.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ127
+RQ158
+RQ160
+CRQ6
+
+⸻
+
+RQ162 — Licensing the Consulting Methodology
+
+Research Question
+
+Can the Runic methodology be licensed to third-party consultants without weakening quality control?
+
+Short Title
+
+Third-Party Consultant Licensing
+
+Candidate Controls
+
+* training requirements;
+* version-specific license;
+* assessment rubric;
+* audit rights;
+* continuing education;
+* prohibited claims;
+* mark-use conditions;
+* complaint process;
+* and license suspension or termination.
+
+Risks
+
+* inconsistent delivery;
+* outdated legal materials;
+* false certification claims;
+* brand dilution;
+* and misuse of proprietary templates.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ146
+RQ148
+RQ149
+RQ151
+RQ160
+
+⸻
+
+Cross-Question Dependency Map
+
+RQ138 → RQ139, RQ140, RQ141, RQ142
+RQ140 + RQ141 → RQ143
+RQ143 → RQ144, RQ150
+RQ145 → RQ146, RQ147, RQ148, RQ149
+RQ147 + RQ148 → RQ151
+RQ150 → jurisdiction and industry maintenance
+RQ152 → RQ153, RQ154, RQ158
+RQ154 → RQ155
+RQ156 → RQ157
+RQ158 → RQ159, RQ160, RQ161
+RQ160 + RQ161 → RQ162
+
+⸻
+
+Prompt Routing Map
+
+User Intent	Primary Questions
+Who controls the repository?	RQ138–RQ140
+How are changes reviewed?	RQ140–RQ143
+What counts as a breaking change?	RQ143
+Can someone fork the standard?	RQ144
+What content is free or paid?	RQ145–RQ149
+How should licenses be structured?	RQ146–RQ148
+What creates commercial value?	RQ149
+How are legal or industry packs maintained?	RQ150
+Does certification mean compliance?	RQ151
+How does Runic handle a new client?	RQ152–RQ155
+Can a consulting case be public?	RQ156–RQ157
+What evidence supports readiness?	RQ158–RQ161
+Can other consultants license the method?	RQ162
+
+⸻
+
+Initial Answer Status
+
+Questions	Answer Status
+RQ138–RQ144	Proposed repository-governance architecture
+RQ145–RQ151	Proposed licensing and conformance architecture
+RQ152–RQ155	Proposed consulting methodology
+RQ156–RQ157	Strong case-study classification controls
+RQ158–RQ161	Proposed readiness and monitoring framework
+RQ162	Commercial and quality-control question unresolved
+
+⸻
+
+Priority Implementation Questions
+
+Before licensing the repository or delivering client readiness assessments, resolve:
+
+RQ138
+RQ139
+RQ140
+RQ141
+RQ142
+RQ143
+RQ144
+RQ145
+RQ146
+RQ147
+RQ148
+RQ150
+RQ151
+RQ152
+RQ153
+RQ154
+RQ155
+RQ156
+RQ157
+RQ158
+RQ160
+RQ161
+RQ162
+
+⸻
+
+Canonical Principle
+
+The repository may become a product, standard, methodology, and commercial service layer, but commercialization must not erase:
+
+* research provenance;
+* legal uncertainty;
+* version specificity;
+* client confidentiality;
+* professional boundaries;
+* or evidence requirements.
+
+The operating chain is:
+
+governance
+→ stewardship
+→ version-control
+→ license-classification
+→ client-discovery
+→ rights-mapping
+→ professional-review
+→ readiness-assessment
+→ monitored-implementation
+→ quality-control
