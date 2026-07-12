@@ -1,0 +1,1300 @@
+RQ055–RQ076: Web4 NIL, Identity, Consent, and Persona Rights
+
+Parent repository: GFO-token
+Folder: /web4-global-social-experiment/research-questions/
+Status: Canonical domain question file
+Version: 0.1.0-draft
+Master register: ../03_RESEARCH_QUESTION_REGISTER.md
+Directory guide: README.md
+
+⸻
+
+1. Purpose
+
+This file contains the twenty-two research questions governing Web4 name, image, likeness, voice, biography, persona, digital-replica, digital-twin, synthetic-media, and agentic-rights systems.
+
+The questions define the research agenda for:
+
+* identity-vector classification;
+* human authorization;
+* machine-readable consent;
+* persona activation;
+* modification and sublicensing;
+* suspension;
+* revocation;
+* expiration;
+* termination;
+* persistent digital artifacts;
+* false endorsements;
+* impersonation;
+* synthetic-media disclosure;
+* emergency safeguards;
+* responsibility for agent output;
+* model updates;
+* posthumous rights;
+* minors;
+* and vulnerable persons.
+
+This file does not declare jurisdiction-specific legal rights.
+
+It identifies the questions that must be investigated before the Web4 NIL framework can be treated as legally, technically, or operationally mature.
+
+⸻
+
+Part V — Web4 NIL
+
+RQ55 — Definition of Web4 NIL Rights
+
+Research Question
+
+How should Web4 name, image, likeness, voice, biography, persona, digital-replica, and agentic rights be defined?
+
+Short Title
+
+Defining Web4 NIL
+
+Purpose
+
+This question establishes the vocabulary and boundaries of the Web4 NIL framework.
+
+Candidate Identity Vectors
+
+name
+image
+likeness
+voice
+biography
+signature
+writing-style
+persona
+avatar
+synthetic-image
+synthetic-voice
+synthetic-video
+digital-replica
+digital-twin
+memory-representation
+reputation
+credentials
+agentic-authority
+
+Required Distinction
+
+The framework must distinguish:
+
+* legally recognized rights;
+* contractual permissions;
+* ethical interests;
+* technical capabilities;
+* project-created governance categories;
+* and branding terminology.
+
+Evidence Needed
+
+* applicable statutes;
+* case law;
+* contracts;
+* platform policies;
+* technical standards;
+* academic literature;
+* and comparative identity frameworks.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ56
+RQ57
+RQ59
+RQ69
+BRQ3
+BRQ4
+
+⸻
+
+RQ56 — Legal, Contractual, Ethical, and Technical Categories
+
+Research Question
+
+Which identity interests are legally recognized rights, contractual rights, ethical interests, technical permissions, or project-created categories?
+
+Short Title
+
+Classification of Identity Interests
+
+Purpose
+
+This question prevents the repository from presenting every Web4 NIL category as an established legal right.
+
+Required Classification Values
+
+legal-right
+contractual-right
+ethical-interest
+technical-permission
+governance-protection
+project-created-category
+uncertain
+jurisdiction-dependent
+
+Example
+
+A technical permission to activate an AI persona is not necessarily a legally recognized property right.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ55
+RQ57
+RQ64
+RQ75
+RQ117
+
+⸻
+
+RQ57 — Extending Traditional NIL
+
+Research Question
+
+How should traditional NIL frameworks be extended for AI agents, synthetic voice, digital twins, avatars, and tokenized personas?
+
+Short Title
+
+Extending NIL for Agentic Systems
+
+Purpose
+
+This question examines where traditional NIL principles remain sufficient and where new contractual, technical, or governance protections may be required.
+
+Candidate Extensions
+
+* identity-vector separation;
+* machine-readable permissions;
+* agent-action boundaries;
+* model-training permissions;
+* revocation workflows;
+* synthetic-media disclosure;
+* compensation automation;
+* audit logs;
+* and emergency suspension.
+
+Risk
+
+The framework must not imply that proposed extensions are already recognized uniformly by law.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ55
+RQ56
+RQ58
+RQ61
+RQ66
+RQ71
+
+⸻
+
+RQ58 — Persona Activation Conditions
+
+Research Question
+
+What minimum conditions must exist before a human-linked persona is activated?
+
+Short Title
+
+Minimum Persona Activation Conditions
+
+Purpose
+
+This question defines the documentation, authorization, technical, privacy, and accountability conditions required before activation.
+
+Candidate Activation Requirements
+
+* verified authorizing party;
+* identity-vector inventory;
+* defined purpose;
+* approved platforms;
+* duration;
+* compensation terms where applicable;
+* prohibited uses;
+* disclosure rules;
+* responsible operator;
+* suspension process;
+* revocation process;
+* audit logging;
+* credential controls;
+* and professional review where required.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ59
+RQ60
+RQ62
+RQ72
+RQ73
+RQ103
+
+Working Principle
+
+No human-linked AI persona should be activated solely because the technical capability exists.
+
+⸻
+
+RQ59 — Valid Authorization
+
+Research Question
+
+What constitutes valid authorization for synthetic media or autonomous persona use?
+
+Short Title
+
+Valid Persona Authorization
+
+Purpose
+
+This question establishes what evidence is necessary to demonstrate that a person knowingly authorized a defined use.
+
+Candidate Requirements
+
+* identifiable authorizing party;
+* legal or contractual capacity;
+* informed agreement;
+* specific identity vectors;
+* clear purpose;
+* duration;
+* permitted systems;
+* compensation terms where applicable;
+* modification rights;
+* withdrawal procedure;
+* and record integrity.
+
+Evidence Forms
+
+executed-contract
+signed-consent
+authenticated-digital-authorization
+institutional-authorization
+guardian-authorization
+estate-authorization
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ58
+RQ60
+RQ61
+RQ63
+RQ66
+RQ69
+
+⸻
+
+RQ60 — Consent Specificity
+
+Research Question
+
+How specific must consent be regarding purpose, platform, territory, duration, compensation, modification, and sublicensing?
+
+Short Title
+
+Consent Granularity
+
+Purpose
+
+This question determines whether broad or blanket consent is adequate for Web4 NIL uses.
+
+Required Consent Dimensions
+
+identity-vector
+purpose
+platform
+territory
+jurisdiction
+duration
+audience
+compensation
+modification
+sublicensing
+model-training
+publication
+commercial-use
+archival-use
+agent-actions
+
+Working Principle
+
+Consent should be granular enough for the authorizing person to understand what the system may do and what remains prohibited.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ59
+RQ61
+RQ62
+RQ66
+RQ69
+
+⸻
+
+RQ61 — Machine-Readable Authorization
+
+Research Question
+
+Should identity authorization be represented in machine-readable form?
+
+Short Title
+
+Machine-Readable Consent
+
+Purpose
+
+This question investigates whether consent terms should be represented in structured data that software can interpret and enforce.
+
+Candidate Benefits
+
+* consistent permission checks;
+* automated expiration;
+* revocation propagation;
+* platform interoperability;
+* policy-to-code traceability;
+* and improved auditability.
+
+Candidate Risks
+
+* oversimplifying legal agreements;
+* schema rigidity;
+* privacy exposure;
+* inconsistent implementation;
+* and conflict between code and contract language.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ59
+RQ60
+RQ62
+RQ64
+RQ94
+RQ96
+
+⸻
+
+RQ62 — Standard Consent Fields
+
+Research Question
+
+Which consent fields should be standardized across implementations?
+
+Short Title
+
+Canonical Consent Fields
+
+Candidate Required Fields
+
+authorization-id
+authorizing-party
+authorized-operator
+identity-vectors
+permitted-purposes
+prohibited-purposes
+platforms
+territories
+jurisdictions
+start-date
+end-date
+compensation-model
+modification-rights
+sublicensing-rights
+model-training-rights
+disclosure-rules
+suspension-process
+revocation-process
+termination-process
+surviving-uses
+record-location
+version
+
+Purpose
+
+Standardized fields may improve portability and conformance without requiring one universal contract form.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ60
+RQ61
+RQ63
+RQ64
+RQ66
+
+⸻
+
+RQ63 — Public and Private Consent Evidence
+
+Research Question
+
+Which consent evidence should be public, and which must remain private?
+
+Short Title
+
+Consent Evidence Privacy
+
+Purpose
+
+This question balances public accountability with privacy, security, contractual confidentiality, and identity protection.
+
+Potentially Public
+
+* authorization status;
+* permitted identity-vector categories;
+* effective dates;
+* disclosure requirements;
+* and revocation status.
+
+Normally Restricted
+
+* signatures;
+* legal names where nonpublic;
+* addresses;
+* tax information;
+* payment details;
+* identity-verification documents;
+* private wallet mappings;
+* and full executed agreements.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ6
+RQ59
+RQ62
+RQ128
+RQ129
+RQ130
+
+⸻
+
+RQ64 — Method-Neutral Identity Schema
+
+Research Question
+
+Should the canonical identity schema be method-neutral?
+
+Short Title
+
+Method-Neutral Identity Standard
+
+Purpose
+
+This question determines whether the standard should define required governance outcomes without mandating one identity technology.
+
+Candidate Position
+
+The canonical schema should define:
+
+* identity-vector categories;
+* authorization evidence;
+* rights and restrictions;
+* status;
+* and lifecycle events.
+
+Implementation adapters may support:
+
+* decentralized identifiers;
+* conventional databases;
+* signed documents;
+* institutional identity systems;
+* and blockchain records.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ56
+RQ61
+RQ62
+RQ65
+RQ144
+
+⸻
+
+RQ65 — Status of did:gcb
+
+Research Question
+
+Should did:gcb be mandatory infrastructure, a preferred implementation, an optional adapter, or branding only?
+
+Short Title
+
+Role of did:gcb
+
+Purpose
+
+This question prevents a project-specific identifier method from being embedded into the universal standard without sufficient justification.
+
+Candidate Classifications
+
+mandatory-standard
+preferred-implementation
+reference-adapter
+optional-adapter
+experimental
+branding-only
+deprecated
+
+Evaluation Criteria
+
+* interoperability;
+* technical maturity;
+* governance;
+* portability;
+* privacy;
+* adoption;
+* vendor independence;
+* and long-term maintenance.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ17
+RQ61
+RQ64
+RQ94
+RQ144
+
+⸻
+
+RQ66 — Authorization Lifecycle
+
+Research Question
+
+How should revocation, suspension, expiration, amendment, and termination differ?
+
+Short Title
+
+Consent Lifecycle Events
+
+Definitions to Develop
+
+Suspension
+
+Temporary disabling of permitted use while authorization remains unresolved or conditionally preserved.
+
+Revocation
+
+Withdrawal of previously granted authorization, subject to applicable contract and law.
+
+Expiration
+
+Automatic end of authorization at the defined date or condition.
+
+Amendment
+
+Authorized modification of one or more terms.
+
+Termination
+
+End of the governing agreement or relationship.
+
+Purpose
+
+These events may have different legal, operational, and technical effects and must not be used interchangeably.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ59
+RQ60
+RQ67
+RQ68
+RQ72
+RQ103
+
+⸻
+
+RQ67 — Persistence After Consent Ends
+
+Research Question
+
+What happens when consent ends but media, tokens, blockchain records, or model weights persist?
+
+Short Title
+
+Persistence After Authorization
+
+Purpose
+
+This question examines the gap between legal or contractual termination and technical persistence.
+
+Persistent Elements
+
+* published media;
+* cached content;
+* blockchain records;
+* tokens;
+* model weights;
+* training data;
+* generated embeddings;
+* archives;
+* third-party copies;
+* and audit records.
+
+Required Distinctions
+
+stop-new-use
+disable-agent
+remove-public-access
+preserve-audit-record
+retain-legal-record
+delete-where-possible
+archive-with-restrictions
+technically-immutable
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ66
+RQ68
+RQ72
+RQ74
+RQ103
+RQ134
+
+⸻
+
+RQ68 — Surviving Uses
+
+Research Question
+
+What archival, historical, journalistic, academic, or evidentiary uses may survive termination?
+
+Short Title
+
+Post-Termination Surviving Uses
+
+Purpose
+
+This question identifies whether limited uses may remain lawful, contractually permitted, ethically justified, or institutionally necessary after active authorization ends.
+
+Candidate Categories
+
+legal-record
+audit-record
+historical-archive
+academic-record
+journalistic-use
+evidentiary-use
+security-record
+public-interest-use
+
+Requirement
+
+Surviving uses must be expressly classified and should not silently continue commercial persona activation.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ66
+RQ67
+RQ75
+RQ133
+RQ134
+
+⸻
+
+RQ69 — Identity-Vector Separation
+
+Research Question
+
+Can a person authorize one identity vector, such as a photograph, without authorizing voice, persona, memory, or digital-twin use?
+
+Short Title
+
+Separate Authorization by Identity Vector
+
+Purpose
+
+This question tests one of the central proposed Web4 NIL principles.
+
+Candidate Principle
+
+Authorization for one identity vector does not automatically authorize another.
+
+Example
+
+Permission to use a photograph does not necessarily authorize:
+
+* synthetic voice;
+* an interactive persona;
+* a digital twin;
+* autonomous posting;
+* memory simulation;
+* or financial transactions.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ55
+RQ59
+RQ60
+RQ62
+RQ70
+
+Preliminary Answer Status
+
+proposed-principle
+
+⸻
+
+RQ70 — Unauthorized Identity Uses
+
+Research Question
+
+How should false endorsements, impersonation, deepfakes, and unauthorized replicas be classified and handled?
+
+Short Title
+
+Unauthorized Persona Use
+
+Candidate Classifications
+
+false-endorsement
+impersonation
+unauthorized-synthetic-media
+unauthorized-digital-replica
+scope-violation
+license-expiration-violation
+credential-compromise
+fraudulent-agent-action
+
+Required Response Areas
+
+* reporting;
+* evidence preservation;
+* public disclosure;
+* suspension;
+* takedown requests;
+* credential revocation;
+* contractual remedies;
+* legal referral;
+* and incident review.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ69
+RQ71
+RQ72
+RQ73
+RQ137
+
+⸻
+
+RQ71 — Synthetic-Media Disclosure
+
+Research Question
+
+What disclosure is appropriate for synthetic images, speech, video, text, translation, and agent outputs?
+
+Short Title
+
+Synthetic Content Disclosure
+
+Purpose
+
+This question determines when and how users should be informed that content was generated, modified, translated, or delivered by an AI system.
+
+Disclosure Dimensions
+
+* content type;
+* degree of synthesis;
+* human review status;
+* persona authorization;
+* autonomous action status;
+* material modification;
+* and platform context.
+
+Candidate Labels
+
+ai-generated
+ai-assisted
+synthetic-voice
+synthetic-image
+authorized-digital-replica
+autonomous-agent-output
+human-reviewed
+unreviewed-agent-output
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ57
+RQ70
+RQ73
+RQ212
+
+⸻
+
+RQ72 — Emergency Persona Suspension
+
+Research Question
+
+What operational and technical safeguards are necessary for emergency persona suspension?
+
+Short Title
+
+Emergency Persona Shutdown
+
+Candidate Safeguards
+
+* authenticated emergency request;
+* identity verification;
+* immediate credential disablement;
+* publishing suspension;
+* transaction suspension;
+* audit logging;
+* responsible-party notification;
+* temporary preservation of evidence;
+* review deadline;
+* appeal procedure;
+* and controlled restoration.
+
+Technical Dependencies
+
+* credential service;
+* model access;
+* API keys;
+* social publishing;
+* wallets;
+* smart contracts;
+* and frontend availability.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ58
+RQ66
+RQ67
+RQ70
+RQ73
+RQ92
+RQ103
+
+⸻
+
+RQ73 — Responsibility for Persona Output
+
+Research Question
+
+Who is responsible when an authorized AI persona produces unauthorized, inaccurate, or harmful output?
+
+Short Title
+
+Accountability for Agent Output
+
+Potentially Responsible Parties
+
+* authorizing person;
+* operator;
+* deploying organization;
+* model provider;
+* platform;
+* developer;
+* data provider;
+* DAO;
+* or third-party integrator.
+
+Analysis Factors
+
+* authorization scope;
+* foreseeability;
+* human review;
+* technical control;
+* contractual allocation;
+* negligence;
+* override availability;
+* and incident response.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ58
+RQ70
+RQ71
+RQ72
+RQ77
+RQ85
+
+⸻
+
+RQ74 — Model Updates and Existing Licenses
+
+Research Question
+
+How should model updates affect existing persona licenses?
+
+Short Title
+
+Model Change and Reauthorization
+
+Purpose
+
+This question examines whether a materially changed model remains within the scope of an earlier authorization.
+
+Potential Material Changes
+
+* new capabilities;
+* new memory behavior;
+* increased autonomy;
+* changed data retention;
+* new transaction capacity;
+* new platforms;
+* new disclosure behavior;
+* or changed safety controls.
+
+Candidate Control
+
+Material model changes may require:
+
+* impact review;
+* renewed testing;
+* updated disclosure;
+* license amendment;
+* or renewed authorization.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ35
+RQ58
+RQ60
+RQ67
+RQ103
+
+⸻
+
+RQ75 — Posthumous Identity Governance
+
+Research Question
+
+How should posthumous identity rights be governed across jurisdictions?
+
+Short Title
+
+Posthumous Web4 NIL
+
+Purpose
+
+This question addresses estates, successors, surviving licenses, archives, digital personas, and jurisdictional variation after death.
+
+Required Issues
+
+* applicable jurisdiction;
+* duration of rights;
+* estate authority;
+* prior contracts;
+* moral and ethical interests;
+* memorial use;
+* commercial use;
+* persona continuation;
+* revocation authority;
+* and archival preservation.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ56
+RQ66
+RQ68
+RQ114
+RQ124
+
+⸻
+
+RQ76 — Minors and Vulnerable Persons
+
+Research Question
+
+What additional safeguards are required for minors and vulnerable persons?
+
+Short Title
+
+Enhanced Identity Safeguards
+
+Candidate Safeguards
+
+* guardian authorization;
+* age-appropriate explanation;
+* limited duration;
+* prohibited commercial categories;
+* heightened privacy;
+* no irreversible delegation by default;
+* periodic reauthorization;
+* compensation protections;
+* independent review;
+* and withdrawal rights upon reaching legal adulthood.
+
+Vulnerability Factors
+
+* age;
+* cognitive capacity;
+* dependency;
+* financial pressure;
+* institutional power imbalance;
+* and limited understanding of synthetic-media persistence.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ58
+RQ59
+RQ63
+RQ135
+RQ136
+RQ172
+RQ173
+
+⸻
+
+Cross-Question Dependency Map
+
+RQ55 → RQ56, RQ57, RQ69
+RQ56 → RQ57, RQ64, RQ75
+RQ57 → RQ58, RQ61, RQ71
+RQ58 → RQ59, RQ60, RQ62, RQ72, RQ73
+RQ59 + RQ60 → RQ61, RQ62, RQ66, RQ69
+RQ61 + RQ62 → RQ64, RQ65
+RQ66 → RQ67, RQ68, RQ72
+RQ67 → RQ68, RQ74
+RQ69 → RQ70
+RQ70 + RQ71 → RQ72, RQ73
+RQ74 → renewed activation review
+RQ75 + RQ76 → special-population governance
+
+⸻
+
+Prompt Routing Map
+
+User Intent	Primary Questions
+What is Web4 NIL?	RQ55–RQ57
+What is required before activating a persona?	RQ58–RQ63
+Can consent be machine-readable?	RQ61–RQ65
+Can I license only my image?	RQ55, RQ59, RQ60, RQ69
+What is the difference between suspension and revocation?	RQ66
+What happens after permission ends?	RQ67–RQ68
+How should deepfakes be handled?	RQ70–RQ72
+Who is responsible for harmful agent output?	RQ73
+Does a model update require new consent?	RQ74
+What happens after a rightsholder dies?	RQ75
+What protections apply to minors?	RQ76
+
+⸻
+
+Initial Answer Status
+
+Questions	Answer Status
+RQ55–RQ57	Preliminary framework
+RQ58–RQ63	Proposed governance requirements
+RQ64–RQ65	Unresolved implementation questions
+RQ66–RQ72	Proposed lifecycle and incident controls
+RQ73	Contested and jurisdiction-dependent
+RQ74	Proposed reauthorization principle
+RQ75	Jurisdiction-specific and unresolved
+RQ76	Strong proposed safeguard principle
+
+⸻
+
+Priority Implementation Questions
+
+The first operational Web4 NIL implementation should resolve, at minimum:
+
+RQ55
+RQ56
+RQ58
+RQ59
+RQ60
+RQ62
+RQ63
+RQ66
+RQ67
+RQ69
+RQ70
+RQ71
+RQ72
+RQ73
+RQ76
+
+Questions regarding implementation methods may remain flexible, but human authorization, identity-vector separation, privacy, lifecycle controls, and emergency suspension cannot remain undefined.
+
+⸻
+
+Canonical Principle
+
+Web4 NIL should not treat human identity as one indivisible technical asset.
+
+A person’s photograph, voice, biography, persona, memory representation, digital twin, and autonomous agent authority may create different rights, risks, permissions, and responsibilities.
+
+The framework must therefore preserve:
+
+* specificity;
+* informed authorization;
+* human authority;
+* privacy;
+* lifecycle control;
+* technical enforceability;
+* disclosure;
+* accountability;
+* and enhanced protection for minors and vulnerable persons.
