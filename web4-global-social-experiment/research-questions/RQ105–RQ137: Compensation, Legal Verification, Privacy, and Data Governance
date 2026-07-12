@@ -1,0 +1,1674 @@
+RQ105–RQ137: Compensation, Legal Verification, Privacy, and Data Governance
+
+Parent repository: GFO-token
+Folder: /web4-global-social-experiment/research-questions/
+Status: Canonical domain question file
+Version: 0.1.0-draft
+Master register: ../03_RESEARCH_QUESTION_REGISTER.md
+Directory guide: README.md
+
+⸻
+
+1. Purpose
+
+This file contains the research questions governing:
+
+1. creator-fee and Web4 NIL compensation;
+2. legal and regulatory verification;
+3. privacy and data governance.
+
+These domains are grouped because financial design, legal authority, identity data, and public transparency frequently interact.
+
+The repository must prevent users, models, developers, and project operators from confusing:
+
+* fee participation with equity;
+* compensation with investment returns;
+* proposed legislation with enacted law;
+* public transparency with disclosure of private records;
+* wallet addresses with verified legal identities;
+* and documentation readiness with legal or operational approval.
+
+⸻
+
+Part VIII — Creator Fees and Compensation
+
+RQ105 — Compensation Structure
+
+Research Question
+
+How should creator-fee and NIL compensation be structured?
+
+Short Title
+
+Web4 NIL Compensation Architecture
+
+Purpose
+
+This question identifies the contractual, financial, reporting, technical, and governance components required for fair and understandable compensation.
+
+Candidate Compensation Models
+
+fixed-fee
+usage-based-fee
+revenue-share
+creator-fee-participation
+license-fee
+milestone-payment
+subscription-share
+transaction-fee-share
+hybrid-model
+
+Required Terms
+
+* calculation basis;
+* eligible activity;
+* payment frequency;
+* allowable deductions;
+* reporting;
+* dispute process;
+* settlement method;
+* taxes;
+* termination effects;
+* and amendment procedure.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ106
+RQ107
+RQ108
+RQ109
+RQ110
+RQ115
+RQ116
+
+⸻
+
+RQ106 — Gross or Net Basis
+
+Research Question
+
+Should compensation be calculated on a gross or net basis?
+
+Short Title
+
+Compensation Calculation Base
+
+Purpose
+
+This question determines the amount against which a compensation percentage is applied.
+
+Potential Bases
+
+gross-revenue
+gross-fees
+net-revenue
+net-fees
+adjusted-gross
+defined-receipts
+
+Required Definitions
+
+Any net-based calculation must define:
+
+* permitted deductions;
+* excluded deductions;
+* timing;
+* allocation method;
+* related-party charges;
+* refunds;
+* chargebacks;
+* and reporting evidence.
+
+Risk
+
+Undefined “net” language may allow excessive or unpredictable deductions.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ105
+RQ107
+RQ108
+RQ115
+
+⸻
+
+RQ107 — Permitted Deductions
+
+Research Question
+
+Which deductions should be permitted?
+
+Short Title
+
+Allowable Compensation Deductions
+
+Candidate Deductions
+
+* payment-processing fees;
+* network fees;
+* refunds;
+* chargebacks;
+* taxes collected for government authorities;
+* and expressly approved third-party costs.
+
+Candidate Restricted Deductions
+
+* general overhead;
+* unrelated marketing;
+* founder compensation;
+* undisclosed affiliate fees;
+* unrelated legal expenses;
+* treasury losses;
+* and discretionary internal allocations.
+
+Requirement
+
+Every deduction category should be:
+
+* defined;
+* disclosed;
+* consistently applied;
+* auditable;
+* and contractually authorized.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ105
+RQ106
+RQ108
+RQ109
+
+⸻
+
+RQ108 — Reporting and Payment Frequency
+
+Research Question
+
+How often should reports and payments be issued?
+
+Short Title
+
+Compensation Reporting Schedule
+
+Candidate Frequencies
+
+per-transaction
+weekly
+monthly
+quarterly
+milestone-based
+threshold-based
+
+Required Report Fields
+
+* reporting period;
+* eligible activity;
+* gross amount;
+* deductions;
+* net calculation basis;
+* compensation percentage;
+* amount due;
+* amount paid;
+* settlement method;
+* transaction identifier;
+* and unresolved adjustments.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ105
+RQ106
+RQ107
+RQ109
+RQ111
+
+⸻
+
+RQ109 — Taxes, Reversals, Sanctions, and Disputes
+
+Research Question
+
+How should taxes, withholding, sanctions, refunds, reversals, chargebacks, and disputes be managed?
+
+Short Title
+
+Compensation Exceptions and Compliance
+
+Required Categories
+
+tax-withholding
+sanctions-screening
+refund
+reversal
+chargeback
+payment-error
+fraud-review
+dispute
+unclaimed-payment
+
+Required Controls
+
+* documented treatment;
+* responsible party;
+* notification;
+* evidence;
+* correction process;
+* appeal process;
+* and record retention.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ105
+RQ107
+RQ108
+RQ110
+RQ114
+RQ116
+
+⸻
+
+RQ110 — Fiat, On-Chain, or Hybrid Settlement
+
+Research Question
+
+Should payment systems support fiat, on-chain, or hybrid settlement?
+
+Short Title
+
+Settlement Method
+
+Candidate Models
+
+fiat-only
+onchain-only
+hybrid
+rightsholder-election
+jurisdiction-dependent
+
+Evaluation Criteria
+
+* legal requirements;
+* user preference;
+* transaction cost;
+* auditability;
+* tax reporting;
+* sanctions compliance;
+* wallet risk;
+* payment reversibility;
+* and accessibility.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ105
+RQ109
+RQ111
+RQ114
+RQ116
+
+⸻
+
+RQ111 — Payment Routing
+
+Research Question
+
+Should compensation be routed directly to rightsholders or through project entities?
+
+Short Title
+
+Direct and Intermediated Payment
+
+Candidate Models
+
+* direct settlement;
+* entity-mediated settlement;
+* escrow;
+* smart-contract routing;
+* payment processor;
+* and hybrid settlement.
+
+Evaluation Criteria
+
+* contractual responsibility;
+* tax treatment;
+* reporting;
+* custody;
+* reversibility;
+* administrative cost;
+* and rightsholder control.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ108
+RQ110
+RQ114
+RQ130
+
+⸻
+
+RQ112 — Modification of Compensation Terms
+
+Research Question
+
+Under what conditions may compensation terms be modified?
+
+Short Title
+
+Changing Compensation Terms
+
+Candidate Requirements
+
+* express amendment authority;
+* advance notice;
+* written authorization;
+* effective date;
+* nonretroactivity by default;
+* versioned agreement;
+* and updated payment logic.
+
+Working Principle
+
+A DAO vote, platform update, or repository revision should not automatically modify an executed compensation agreement.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ79
+RQ105
+RQ113
+RQ115
+
+⸻
+
+RQ113 — Retroactive Changes
+
+Research Question
+
+Should retroactive compensation changes require renewed written authorization?
+
+Short Title
+
+Retroactive Compensation Amendments
+
+Preliminary Position
+
+Material retroactive changes should require renewed authorization unless an existing agreement clearly and lawfully provides otherwise.
+
+Risks
+
+* unfair reduction of earned compensation;
+* hidden deductions;
+* conflicting records;
+* and loss of rightsholder trust.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ79
+RQ112
+RQ115
+RQ127
+
+⸻
+
+RQ114 — Wallet Changes, Lost Keys, Estates, and Errors
+
+Research Question
+
+How should wallet changes, lost keys, estate succession, or payment errors be handled?
+
+Short Title
+
+Payment Continuity and Recovery
+
+Required Procedures
+
+* authenticated wallet update;
+* cooling-off period where appropriate;
+* fraud controls;
+* lost-key process;
+* payment hold;
+* estate documentation;
+* correction entries;
+* duplicate-payment prevention;
+* and audit logs.
+
+Privacy Requirement
+
+Wallet-to-person mappings should remain restricted unless public disclosure is authorized and justified.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ75
+RQ109
+RQ110
+RQ111
+RQ130
+RQ131
+
+⸻
+
+RQ115 — Accurate Financial Language
+
+Research Question
+
+How should fee participation be described without inaccurately implying equity, dividends, yield, royalties, or investment returns?
+
+Short Title
+
+Compensation Terminology
+
+Purpose
+
+This question establishes accurate public and contractual language.
+
+Preferred Approach
+
+Use the term that matches the actual arrangement, such as:
+
+contractual-fee-participation
+creator-compensation
+license-payment
+transaction-fee-share
+usage-based-payment
+
+Avoid Unless Legally and Contractually Accurate
+
+equity
+dividend
+yield
+interest
+guaranteed-return
+royalty
+profit-sharing
+ownership
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ105
+RQ106
+RQ112
+RQ116
+
+⸻
+
+RQ116 — Professional Review Triggers
+
+Research Question
+
+What professional-review triggers should apply to compensation tied to token activity?
+
+Short Title
+
+Token Compensation Review Gates
+
+Candidate Triggers
+
+* public token launch;
+* percentage of transaction fees;
+* cross-border payments;
+* sanctions exposure;
+* minors;
+* estate payments;
+* promotional return language;
+* custody;
+* tax withholding;
+* and changes to existing payment rights.
+
+Potential Reviewers
+
+* legal counsel;
+* tax professional;
+* accountant;
+* sanctions specialist;
+* and qualified compliance reviewer.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ105
+RQ109
+RQ110
+RQ115
+RQ125
+RQ126
+
+⸻
+
+Part IX — Legal and Regulatory Verification
+
+RQ117 — Enacted Law Versus Proposed Legislation
+
+Research Question
+
+How should the repository distinguish enacted law from proposed legislation?
+
+Short Title
+
+Legal Status Classification
+
+Required Status Values
+
+enacted
+effective
+enacted-not-yet-effective
+proposed
+introduced
+amended
+passed-one-chamber
+pending-executive-action
+failed
+withdrawn
+expired
+unknown
+
+Principle
+
+Proposed legislation must never be presented as binding law.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ44
+RQ118
+RQ119
+RQ123
+
+⸻
+
+RQ118 — Legal-Claims Register Fields
+
+Research Question
+
+What fields should be included in a legal-claims verification register?
+
+Short Title
+
+Legal Claim Metadata
+
+Required Fields
+
+legal-claim-id
+claim-text
+jurisdiction
+authority-type
+citation
+official-source
+status
+effective-date
+verification-date
+reviewer
+confidence
+next-review-date
+affected-files
+affected-chunks
+notes
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ117
+RQ119
+RQ120
+RQ121
+RQ122
+
+⸻
+
+RQ119 — Reverification of Pending Legislation
+
+Research Question
+
+How frequently should pending legislation be reverified?
+
+Short Title
+
+Pending-Law Review Frequency
+
+Candidate Review Schedule
+
+before-publication
+before-release
+monthly-while-active
+upon-material-legislative-event
+before-operational-reliance
+
+Principle
+
+Time-sensitive claims should not rely solely on the date they were first researched.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ35
+RQ117
+RQ118
+RQ120
+RQ123
+
+⸻
+
+RQ120 — Reverification of Existing Authority
+
+Research Question
+
+How frequently should enacted laws, regulations, and cases be reverified?
+
+Short Title
+
+Legal Authority Refresh Cycle
+
+Candidate Frequency
+
+* before major publication;
+* before activation;
+* annually for stable authority;
+* quarterly for high-risk areas;
+* and immediately after known legal change.
+
+Factors
+
+* jurisdiction;
+* subject matter;
+* litigation activity;
+* regulatory change;
+* operational reliance;
+* and public impact.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ35
+RQ118
+RQ119
+RQ124
+RQ127
+
+⸻
+
+RQ121 — Primary Legal Authority
+
+Research Question
+
+What sources count as primary legal authority?
+
+Short Title
+
+Legal Source Hierarchy
+
+Candidate Primary Sources
+
+* constitutions;
+* enacted statutes;
+* regulations;
+* official court opinions;
+* executive orders;
+* official legislative records;
+* and binding agency orders.
+
+Secondary Sources
+
+* law-firm analysis;
+* academic commentary;
+* news reports;
+* industry guidance;
+* and model-generated summaries.
+
+Principle
+
+Secondary sources may explain authority but should not replace primary-source verification when primary sources are available.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ118
+RQ122
+RQ123
+RQ124
+
+⸻
+
+RQ122 — Classification of Guidance and Commentary
+
+Research Question
+
+How should government guidance, law-firm commentary, industry standards, and academic analysis be classified?
+
+Short Title
+
+Secondary Legal Source Classification
+
+Suggested Categories
+
+binding-authority
+official-nonbinding-guidance
+enforcement-position
+industry-standard
+professional-commentary
+academic-analysis
+project-interpretation
+
+Purpose
+
+This question prevents authoritative-sounding commentary from being represented as binding law.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ44
+RQ118
+RQ121
+RQ123
+
+⸻
+
+RQ123 — Preventing Legal-Status Hallucinations
+
+Research Question
+
+What process should prevent proposed legislation from being presented as binding law?
+
+Short Title
+
+Legal Hallucination Prevention
+
+Required Controls
+
+1. legal-status field;
+2. primary-source link;
+3. verification date;
+4. model-output isolation;
+5. human review for material claims;
+6. automatic warning for proposed-law language;
+7. publication gate;
+8. and correction workflow.
+
+Study Basis
+
+This question responds directly to a model presenting proposed federal legislation as enacted law.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ42
+RQ44
+RQ117
+RQ118
+RQ121
+RQ122
+
+⸻
+
+RQ124 — Jurisdictional Conflicts
+
+Research Question
+
+How should jurisdiction-specific conflicts be handled?
+
+Short Title
+
+Cross-Jurisdiction Legal Conflict
+
+Required Metadata
+
+* governing jurisdiction;
+* affected jurisdictions;
+* conflict description;
+* controlling agreement;
+* choice-of-law terms;
+* professional-review status;
+* and implementation restriction.
+
+Principle
+
+A general Web4 standard must not imply that one jurisdiction’s rules apply universally.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ75
+RQ118
+RQ120
+RQ121
+RQ125
+RQ126
+
+⸻
+
+RQ125 — Counsel Before Public Release
+
+Research Question
+
+What legal issues require professional counsel before public release?
+
+Short Title
+
+Publication Legal Review Triggers
+
+Candidate Triggers
+
+* legal-rights claims;
+* jurisdiction-specific guidance;
+* contract templates;
+* token compensation;
+* minors;
+* healthcare identity;
+* certification language;
+* privacy claims;
+* and institutional partnership claims.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ116
+RQ124
+RQ126
+RQ127
+RQ151
+
+⸻
+
+RQ126 — Counsel Before Operational Activation
+
+Research Question
+
+What legal issues require professional counsel before operational activation?
+
+Short Title
+
+Activation Legal Review Triggers
+
+Candidate Triggers
+
+* live persona activation;
+* identity licensing;
+* autonomous transactions;
+* token-fee compensation;
+* collection of biometric data;
+* minor participation;
+* healthcare use;
+* cross-border payments;
+* and conformance or certification claims.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ58
+RQ76
+RQ116
+RQ124
+RQ125
+RQ127
+
+⸻
+
+RQ127 — Legal Uncertainty and Readiness
+
+Research Question
+
+How should legal uncertainty affect readiness scores and activation gates?
+
+Short Title
+
+Legal Risk in Readiness Assessment
+
+Candidate Statuses
+
+no-material-legal-issue-identified
+legal-review-pending
+conditional-approval
+restricted-deployment
+jurisdiction-limited
+not-ready
+prohibited
+
+Principle
+
+Legal uncertainty should lower activation readiness even when documentation is complete.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ113
+RQ120
+RQ124
+RQ125
+RQ126
+RQ161
+
+⸻
+
+Part X — Privacy and Data Governance
+
+RQ128 — Public Repository Information
+
+Research Question
+
+What information should be public in a transparent governance repository?
+
+Short Title
+
+Public Transparency Requirements
+
+Candidate Public Information
+
+* research questions;
+* public policies;
+* approved standards;
+* role descriptions;
+* administrative permissions;
+* release history;
+* public evidence metadata;
+* compensation formulas where disclosure is authorized;
+* and incident summaries where appropriate.
+
+Principle
+
+Transparency should support accountability without exposing protected data.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ6
+RQ63
+RQ99
+RQ129
+RQ130
+
+⸻
+
+RQ129 — Confidential and Access-Controlled Information
+
+Research Question
+
+What information should remain confidential or access-controlled?
+
+Short Title
+
+Restricted Information
+
+Candidate Restricted Information
+
+* executed agreements;
+* signatures;
+* legal identity records;
+* tax records;
+* payment details;
+* private wallet mappings;
+* student records;
+* healthcare records;
+* biometric templates;
+* client information;
+* credentials;
+* and security findings.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ6
+RQ63
+RQ128
+RQ130
+RQ137
+
+⸻
+
+RQ130 — Protection of Sensitive Records
+
+Research Question
+
+How should legal identities, signatures, contracts, tax records, wallets, payment information, and biometric data be protected?
+
+Short Title
+
+Sensitive Data Protection
+
+Candidate Controls
+
+* encryption;
+* access control;
+* least privilege;
+* secure key management;
+* separation of public and private repositories;
+* audit logs;
+* retention limits;
+* redaction;
+* and incident response.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ63
+RQ111
+RQ114
+RQ128
+RQ129
+RQ136
+RQ137
+
+⸻
+
+RQ131 — Public Wallet-to-Person Mapping
+
+Research Question
+
+Should wallet-to-person mappings ever be publicly disclosed?
+
+Short Title
+
+Wallet Identity Disclosure
+
+Preliminary Position
+
+Public disclosure should not be the default.
+
+Possible Exceptions
+
+* informed voluntary disclosure;
+* legally required disclosure;
+* public official project wallets;
+* organizational treasury wallets;
+* or disclosures necessary for conflict management.
+
+Risks
+
+* harassment;
+* financial surveillance;
+* reidentification;
+* phishing;
+* coercion;
+* and personal-security threats.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ88
+RQ114
+RQ128
+RQ129
+RQ130
+
+⸻
+
+RQ132 — Data Minimization
+
+Research Question
+
+How should data minimization apply to consent and rightsholder records?
+
+Short Title
+
+Minimum Necessary Identity Data
+
+Principle
+
+Collect and retain only the data necessary to:
+
+* establish authority;
+* administer permissions;
+* process compensation;
+* support legal obligations;
+* manage disputes;
+* and preserve required records.
+
+Candidate Controls
+
+* field-level necessity review;
+* tokenization or pseudonymization;
+* separate identity vault;
+* limited retention;
+* and public metadata instead of full records.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ59
+RQ63
+RQ129
+RQ130
+RQ133
+
+⸻
+
+RQ133 — Retention Periods
+
+Research Question
+
+What retention periods should apply to consent, compensation, security, and incident records?
+
+Short Title
+
+Record Retention
+
+Record Categories
+
+authorization
+contract
+compensation
+tax
+security
+incident
+audit
+research
+student
+healthcare
+
+Factors
+
+* legal requirements;
+* contractual requirements;
+* dispute periods;
+* audit needs;
+* research purpose;
+* privacy risk;
+* and deletion feasibility.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ68
+RQ109
+RQ132
+RQ134
+RQ137
+
+⸻
+
+RQ134 — Archiving Revoked or Expired Authorizations
+
+Research Question
+
+How should expired or revoked authorizations be archived?
+
+Short Title
+
+Authorization Archive
+
+Candidate Controls
+
+* active-status removal;
+* restricted archive;
+* lifecycle timestamp;
+* reason code;
+* evidence preservation;
+* access limitation;
+* retention schedule;
+* and prohibition on reactivation without new approval.
+
+Principle
+
+Archival preservation must not be confused with continuing authorization.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ66
+RQ67
+RQ68
+RQ133
+
+⸻
+
+RQ135 — Privacy Safeguards for Minors
+
+Research Question
+
+What privacy safeguards are necessary for minors?
+
+Short Title
+
+Minor Data Protection
+
+Candidate Safeguards
+
+* guardian permission where required;
+* age-appropriate notice;
+* minimal collection;
+* limited publication;
+* deidentification;
+* no public wallet mapping;
+* restricted biometric use;
+* shorter retention;
+* reauthorization at adulthood;
+* and enhanced deletion procedures.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ76
+RQ129
+RQ132
+RQ136
+RQ172
+RQ173
+
+⸻
+
+RQ136 — Biometric and Behavioral Data
+
+Research Question
+
+What privacy safeguards are necessary for voice, face, behavioral, and biometric data?
+
+Short Title
+
+Biometric Identity Protection
+
+Candidate Data Types
+
+* face geometry;
+* voiceprints;
+* gait;
+* behavioral patterns;
+* writing style;
+* emotional inference;
+* and identity templates.
+
+Candidate Controls
+
+* explicit authorization;
+* purpose limitation;
+* encryption;
+* separate storage;
+* no public release of templates;
+* limited model-training rights;
+* revocation procedure;
+* and breach-specific response.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ55
+RQ60
+RQ63
+RQ130
+RQ135
+RQ137
+
+⸻
+
+RQ137 — Breach and Identity Compromise
+
+Research Question
+
+How should data breaches, unauthorized disclosure, and identity compromise be handled?
+
+Short Title
+
+Privacy Incident Response
+
+Required Response Stages
+
+1. detection;
+2. containment;
+3. evidence preservation;
+4. access revocation;
+5. affected-person notification where required;
+6. legal and regulatory assessment;
+7. public disclosure where appropriate;
+8. remediation;
+9. root-cause analysis;
+10. and policy or technical revision.
+
+Possible Incidents
+
+* leaked consent records;
+* wallet identity exposure;
+* biometric compromise;
+* stolen persona credentials;
+* unauthorized publication;
+* and confidential contract disclosure.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ70
+RQ72
+RQ103
+RQ129
+RQ130
+RQ133
+RQ136
+
+⸻
+
+Cross-Question Dependency Map
+
+RQ105 → RQ106, RQ107, RQ108, RQ109, RQ110
+RQ106 + RQ107 → RQ108
+RQ109 + RQ110 → RQ111, RQ114, RQ116
+RQ112 → RQ113
+RQ115 → RQ116
+RQ117 → RQ118, RQ119, RQ123
+RQ118 → RQ120, RQ121, RQ122
+RQ121 + RQ122 → RQ123, RQ124
+RQ124 → RQ125, RQ126, RQ127
+RQ128 → RQ129, RQ130, RQ131
+RQ129 + RQ130 → RQ132, RQ133, RQ136, RQ137
+RQ133 → RQ134
+RQ135 + RQ136 → enhanced privacy controls
+
+⸻
+
+Prompt Routing Map
+
+User Intent	Primary Questions
+How should creator compensation work?	RQ105–RQ111
+Can payment terms be changed later?	RQ112–RQ113
+What happens if a wallet is lost?	RQ114
+Can this be called royalties or yield?	RQ115–RQ116
+Is a proposed bill already law?	RQ117–RQ123
+Which legal sources control?	RQ121–RQ124
+When is counsel required?	RQ125–RQ127
+What should be public?	RQ128–RQ131
+How much identity data should be collected?	RQ132
+How long should records be retained?	RQ133–RQ134
+How should minor data be protected?	RQ135
+How should voice and face data be protected?	RQ136
+What happens after a breach?	RQ137
+
+⸻
+
+Initial Answer Status
+
+Questions	Answer Status
+RQ105–RQ111	Proposed compensation architecture
+RQ112–RQ116	Proposed contractual and professional-review controls
+RQ117–RQ123	Strong methodological and verification controls
+RQ124–RQ127	Jurisdiction-dependent; professional review required
+RQ128–RQ134	Proposed privacy and records framework
+RQ135–RQ137	Enhanced safeguards required; implementation-specific
+
+⸻
+
+Priority Implementation Questions
+
+Before activating compensation, legal claims, or identity-data systems, the project should resolve:
+
+RQ105
+RQ106
+RQ107
+RQ108
+RQ109
+RQ110
+RQ112
+RQ113
+RQ114
+RQ115
+RQ116
+RQ117
+RQ118
+RQ121
+RQ123
+RQ124
+RQ125
+RQ126
+RQ127
+RQ128
+RQ129
+RQ130
+RQ131
+RQ132
+RQ133
+RQ134
+RQ135
+RQ136
+RQ137
+
+⸻
+
+Canonical Principle
+
+Compensation must be understandable, auditable, and contractually defined.
+
+Legal claims must be current, jurisdiction-specific, and verified against appropriate authority.
+
+Transparency must not become a justification for exposing private identity, financial, student, healthcare, biometric, or contractual records.
+
+The governing chain is:
+
+clear-terms
+→ verified-authority
+→ minimum-necessary-data
+→ controlled-access
+→ accurate-reporting
+→ incident-readiness
+→ accountable-review
