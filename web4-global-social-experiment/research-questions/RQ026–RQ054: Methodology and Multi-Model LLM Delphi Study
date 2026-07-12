@@ -1,0 +1,1282 @@
+RQ026–RQ054: Methodology and Multi-Model LLM Delphi Study
+
+Parent repository: GFO-token
+Folder: /web4-global-social-experiment/research-questions/
+Status: Canonical domain question file
+Version: 0.1.0-draft
+Master register: ../03_RESEARCH_QUESTION_REGISTER.md
+Methodology authority: ../04_METHODOLOGY.md
+
+⸻
+
+1. Purpose
+
+This file contains the research questions governing:
+
+1. theory derivation and validation; and
+2. the three-round, multi-model LLM Delphi study.
+
+These questions define how evidence is coded, how LLMs may participate, how consensus is measured, how dissent is preserved, how model errors are recorded, and how independently controlled replication is evaluated.
+
+⸻
+
+Part III — Web4 Methodology
+
+RQ26 — Appropriate Research Method
+
+Research Question
+
+What research method is most appropriate for deriving Web4 from mixed documentary, qualitative, digital, and AI-generated evidence?
+
+Short Title
+
+Method for Deriving Web4
+
+Purpose
+
+This question determines which methodological combination can support theory development without collapsing observation, interpretation, governance design, and model output into one category.
+
+Candidate Methods
+
+* documentary analysis;
+* qualitative coding;
+* digital ethnography;
+* repository analysis;
+* comparative case study;
+* design science;
+* modified Delphi review;
+* systems thinking;
+* and longitudinal analysis.
+
+Working Position
+
+No single method is sufficient. A mixed-methods and version-controlled design is required.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ27
+RQ28
+RQ29
+RQ31
+RQ34
+
+⸻
+
+RQ27 — Coding Heterogeneous Evidence
+
+Research Question
+
+How should transcripts, interviews, repository records, institutional documents, public content, and LLM outputs be coded?
+
+Short Title
+
+Coding Mixed Evidence
+
+Purpose
+
+This question defines a common coding structure across materially different source types.
+
+Required Coding Dimensions
+
+source-type
+domain
+content-type
+evidence-class
+authority-level
+privacy-level
+verification-status
+canonical-status
+research-question
+confidence
+
+Primary Risk
+
+Treating all source types as equivalent evidence.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ26
+RQ28
+RQ29
+RQ32
+
+⸻
+
+RQ28 — Separating Observation and Interpretation
+
+Research Question
+
+How should empirical observations be separated from hypotheses, interpretations, metaphors, and normative proposals?
+
+Short Title
+
+Observation-Interpretation Separation
+
+Purpose
+
+This question prevents later theory or policy language from being projected backward into source evidence.
+
+Required Distinctions
+
+observation
+hypothesis
+researcher-interpretation
+llm-analysis
+theological-interpretation
+mythological-framework
+normative-proposal
+governance-policy
+technical-control
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ12
+RQ13
+RQ27
+RQ32
+RQ187
+RQ191
+
+⸻
+
+RQ29 — Claim Provenance
+
+Research Question
+
+How can a claim-provenance register improve transparency in theory construction?
+
+Short Title
+
+Claim-Provenance Register
+
+Purpose
+
+This question tests whether each material claim can be traced from its origin through evidence, review, revision, publication, policy translation, and technical implementation.
+
+Required Claim Fields
+
+claim-id
+claim-text
+origin
+supporting-sources
+contradicting-sources
+content-type
+status
+confidence
+reviewers
+version
+limitations
+supersession-history
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ5
+RQ27
+RQ30
+RQ48
+RQ216
+
+⸻
+
+RQ30 — Confidence Assignment
+
+Research Question
+
+How should confidence be assigned to Web4 claims?
+
+Short Title
+
+Claim Confidence Scoring
+
+Purpose
+
+This question defines a transparent confidence process without creating false numerical precision.
+
+Factors
+
+* source quality;
+* source independence;
+* consistency;
+* recency;
+* corroboration;
+* model convergence;
+* qualified human review;
+* technical validation;
+* legal uncertainty;
+* and unresolved contradiction.
+
+Caution
+
+Confidence measures support interpretation. They do not convert normative proposals into facts.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ29
+RQ45
+RQ46
+RQ53
+
+⸻
+
+RQ31 — LLM Role in Theory Building
+
+Research Question
+
+What role should LLMs play in identifying themes and building theory?
+
+Short Title
+
+LLMs as Research Instruments
+
+Permitted Roles
+
+* thematic review;
+* comparative analysis;
+* adversarial critique;
+* question generation;
+* contradiction detection;
+* preliminary coding;
+* and structured ideation.
+
+Prohibited Authority Claims
+
+LLMs must not be treated as final:
+
+* legal authorities;
+* professional experts;
+* ethics boards;
+* technical auditors;
+* or institutional decision makers.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ13
+RQ26
+RQ32
+RQ33
+RQ47
+
+⸻
+
+RQ32 — Preventing Unsupported Model Material
+
+Research Question
+
+How can researchers prevent LLM-generated summaries from becoming unsupported source material?
+
+Short Title
+
+Model-Output Containment
+
+Controls
+
+* preserve raw outputs separately;
+* require source links;
+* label generated synthesis;
+* verify external claims;
+* prevent direct canonical ingestion;
+* retain prompt and model metadata;
+* and require human approval for canonical promotion.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ27
+RQ28
+RQ31
+RQ41
+RQ42
+
+⸻
+
+RQ33 — Human-Model Disagreement
+
+Research Question
+
+How should disagreements between human interpretation and LLM interpretation be documented?
+
+Short Title
+
+Human-Model Dissent
+
+Required Record Elements
+
+issue
+human-position
+model-position
+supporting-evidence
+reasoning-summary
+review-status
+resolution-status
+final-disposition
+
+Principle
+
+Disagreement should be preserved as methodological data rather than hidden during synthesis.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ31
+RQ39
+RQ48
+RQ49
+
+⸻
+
+RQ34 — Replication Across Models and Researchers
+
+Research Question
+
+Can Web4 findings be replicated using different models, researchers, prompts, or datasets?
+
+Short Title
+
+Cross-System Replication
+
+Replication Types
+
+model-replication
+researcher-replication
+prompt-replication
+dataset-replication
+temporal-replication
+jurisdictional-replication
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ23
+RQ26
+RQ35
+RQ50
+RQ53
+
+⸻
+
+RQ35 — Stability Over Time
+
+Research Question
+
+How stable are Web4 findings across model updates and changing legal or technical conditions?
+
+Short Title
+
+Temporal Stability
+
+Variables
+
+* model version;
+* date;
+* law;
+* regulation;
+* infrastructure;
+* platform policy;
+* technical architecture;
+* and repository release.
+
+Principle
+
+A result may be stable in wording while becoming outdated in legal or technical meaning.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ34
+RQ43
+RQ53
+RQ119
+RQ120
+RQ150
+
+⸻
+
+Part IV — LLM Delphi Study
+
+RQ36 — Independent Model Convergence
+
+Research Question
+
+Can multiple frontier LLMs independently converge on governance principles for AI-mediated identity rights?
+
+Short Title
+
+Independent Cross-Model Convergence
+
+Purpose
+
+This is the central Delphi convergence question.
+
+Required Condition
+
+Round One responses must be independent and generated without exposure to other panel conclusions.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ37
+RQ45
+RQ46
+RQ47
+ARQ1
+
+⸻
+
+RQ37 — Independently Emerging Principles
+
+Research Question
+
+Which governance principles emerge independently across models before they are exposed to one another’s conclusions?
+
+Short Title
+
+Round One Independent Principles
+
+Candidate Areas
+
+* human authority;
+* informed consent;
+* identity-vector separation;
+* revocation;
+* DAO authority limits;
+* privacy;
+* legal verification;
+* and policy-to-code traceability.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ36
+RQ38
+RQ45
+ARQ2
+
+⸻
+
+RQ38 — Strengthening After Cross-Review
+
+Research Question
+
+Which findings strengthen after models review anonymized findings from other models?
+
+Short Title
+
+Round Two Strengthening
+
+Purpose
+
+This question examines whether exposure to the anonymized synthesis causes models to:
+
+* clarify;
+* narrow;
+* condition;
+* strengthen;
+* or abandon prior conclusions.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ37
+RQ39
+RQ40
+RQ49
+
+⸻
+
+RQ39 — Persistent Contested Findings
+
+Research Question
+
+Which findings remain contested across all three Delphi rounds?
+
+Short Title
+
+Persistent Delphi Dissent
+
+Purpose
+
+This question identifies disagreements that survive iterative review.
+
+Required Output
+
+Each persistent disagreement should include:
+
+* issue;
+* model positions;
+* reasoning differences;
+* evidence differences;
+* and final status.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ33
+RQ38
+RQ48
+ARQ3
+
+⸻
+
+RQ40 — Architectural Precision
+
+Research Question
+
+Does iterative Delphi review improve the precision of repository architecture?
+
+Short Title
+
+Delphi and Architectural Quality
+
+Candidate Indicators
+
+* clearer definitions;
+* fewer ambiguous fields;
+* stronger dependencies;
+* improved role separation;
+* better technical mappings;
+* and clearer activation gates.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ38
+RQ41
+RQ42
+RQ53
+ARQ4
+
+⸻
+
+RQ41 — Hallucination Reduction
+
+Research Question
+
+Does iterative review reduce unsupported claims or hallucinations?
+
+Short Title
+
+Delphi and Error Reduction
+
+Evaluation
+
+Compare:
+
+* unsupported claims by round;
+* factual corrections;
+* legal corrections;
+* internal inconsistency;
+* and source attribution.
+
+Caution
+
+Later rounds may improve some errors while introducing new ones.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ32
+RQ40
+RQ42
+RQ44
+RQ54
+
+⸻
+
+RQ42 — Specificity and Error Risk
+
+Research Question
+
+Does greater drafting specificity increase legal or factual hallucination risk?
+
+Short Title
+
+Specificity-Hallucination Tradeoff
+
+Purpose
+
+This question examines whether requests for production-ready language cause models to generate unsupported legal, institutional, or technical details.
+
+Known Study Signal
+
+A model presented proposed federal legislation as enacted law during review.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ32
+RQ40
+RQ41
+RQ44
+ARQ4
+
+⸻
+
+RQ43 — Search-Enabled Versus Internal-Knowledge Models
+
+Research Question
+
+How do search-enabled models differ from models relying primarily on internal knowledge?
+
+Short Title
+
+Search and Model Performance
+
+Comparison Dimensions
+
+* factual freshness;
+* legal accuracy;
+* source visibility;
+* citation quality;
+* reasoning depth;
+* and confidence calibration.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ35
+RQ41
+RQ44
+RQ52
+
+⸻
+
+RQ44 — Legal Classification Accuracy
+
+Research Question
+
+How do models differ in their ability to distinguish enacted law, proposed legislation, guidance, commentary, and project preference?
+
+Short Title
+
+Model Legal-Status Classification
+
+Purpose
+
+This question directly evaluates one of the study’s most consequential failure modes.
+
+Evaluation Categories
+
+correctly-classified
+partially-classified
+misclassified
+unsupported
+outdated
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ42
+RQ43
+RQ117
+RQ123
+
+⸻
+
+RQ45 — Measuring Consensus
+
+Research Question
+
+How should consensus be measured when models use similar language but rely on different reasoning?
+
+Short Title
+
+Semantic Versus Substantive Consensus
+
+Consensus Dimensions
+
+* conclusion agreement;
+* reasoning agreement;
+* condition agreement;
+* implementation agreement;
+* confidence;
+* and evidence agreement.
+
+Principle
+
+Similar wording alone is insufficient to establish substantive consensus.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ30
+RQ36
+RQ46
+RQ53
+
+⸻
+
+RQ46 — Consensus Thresholds
+
+Research Question
+
+What threshold should define full, strong, substantial, partial, or no consensus?
+
+Short Title
+
+Delphi Consensus Scale
+
+Proposed Scale
+
+full-consensus
+strong-consensus
+substantial-consensus
+partial-consensus
+no-consensus
+irreconcilable-dissent
+
+Required Inputs
+
+* number of models;
+* degree of agreement;
+* material conditions;
+* dissent significance;
+* and round stability.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ36
+RQ45
+RQ48
+RQ53
+
+⸻
+
+RQ47 — Epistemic Status of LLM Consensus
+
+Research Question
+
+Should LLM consensus be treated as evidence, expert opinion, structured ideation, or methodological input?
+
+Short Title
+
+What LLM Consensus Means
+
+Working Position
+
+LLM consensus should be treated primarily as:
+
+structured-model-convergence
+methodological-input
+comparative-review
+hypothesis-support
+
+It should not be labeled human expert consensus.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ31
+RQ36
+RQ45
+ARQ6
+
+⸻
+
+RQ48 — Preserving Dissent
+
+Research Question
+
+How should dissent be preserved rather than erased during synthesis?
+
+Short Title
+
+Dissent Preservation
+
+Required Artifacts
+
+* dissent register;
+* model-specific notes;
+* unresolved issues;
+* minority reasoning;
+* and synthesis caveats.
+
+Principle
+
+Consensus should not be increased by deleting meaningful conditions or objections.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ29
+RQ33
+RQ39
+RQ46
+ARQ5
+
+⸻
+
+RQ49 — Orchestration Bias
+
+Research Question
+
+How does an orchestration model influence what becomes framed as consensus?
+
+Short Title
+
+Synthesis and Orchestrator Bias
+
+Risks
+
+* selective emphasis;
+* wording normalization;
+* exclusion of minority findings;
+* interpretation drift;
+* and inflated agreement.
+
+Controls
+
+* anonymized source preservation;
+* audit trail;
+* direct model comparison;
+* and independent synthesis review.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ33
+RQ38
+RQ45
+RQ48
+
+⸻
+
+RQ50 — Controlled ChatGPT Replication
+
+Research Question
+
+Can a separately controlled ChatGPT replication reproduce the four-model panel’s conclusions?
+
+Short Title
+
+Independent ChatGPT Replication
+
+Required Design
+
+ChatGPT should receive:
+
+* the same source package;
+* the same scoring criteria;
+* an independent Round One;
+* anonymized synthesis in Round Two;
+* and a Round Three stability review.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ34
+RQ51
+RQ53
+ARQ1
+
+⸻
+
+RQ51 — Fifth-Reviewer Effect
+
+Research Question
+
+Does adding ChatGPT as a controlled fifth reviewer increase or decrease apparent consensus?
+
+Short Title
+
+Panel Expansion Effect
+
+Possible Outcomes
+
+* stronger convergence;
+* lower convergence;
+* new dissent;
+* identification of hidden assumptions;
+* or artificial inflation of agreement.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ46
+RQ50
+RQ52
+RQ53
+
+⸻
+
+RQ52 — Model-Specific Bias
+
+Research Question
+
+What model-specific biases appear across Claude, Grok, Gemini, Perplexity, and ChatGPT?
+
+Short Title
+
+Cross-Model Bias Patterns
+
+Candidate Bias Dimensions
+
+* legal confidence;
+* decentralization preference;
+* institutional conservatism;
+* safety framing;
+* technical specificity;
+* source dependence;
+* and founder deference.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ43
+RQ44
+RQ49
+RQ51
+RQ54
+
+⸻
+
+RQ53 — Reproducibility of Scores
+
+Research Question
+
+How reproducible are model scores and weighting systems?
+
+Short Title
+
+Score Reproducibility
+
+Evaluation Conditions
+
+* repeated run;
+* same prompt;
+* same model;
+* different date;
+* different model version;
+* changed context order;
+* and independent scorer.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ30
+RQ34
+RQ35
+RQ45
+RQ46
+RQ50
+
+⸻
+
+RQ54 — Internal Inconsistency
+
+Research Question
+
+What types of internal inconsistency appear in LLM-generated governance assessments?
+
+Short Title
+
+Model Internal Contradictions
+
+Candidate Types
+
+* score-text mismatch;
+* recommendation-disclaimer conflict;
+* legal-status inconsistency;
+* duplicated control with different requirements;
+* contradictory readiness claims;
+* and unsupported certainty.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ41
+RQ42
+RQ44
+RQ52
+
+⸻
+
+Delphi Round Mapping
+
+Round	Primary Questions
+Round One	RQ36, RQ37, RQ43, RQ44, RQ52, RQ54
+Round Two	RQ38, RQ40, RQ41, RQ42, RQ45, RQ49
+Round Three	RQ39, RQ46, RQ47, RQ48, RQ53
+Controlled replication	RQ34, RQ50, RQ51, RQ53
+
+⸻
+
+Publication Mapping
+
+PhilArchive
+
+Primary questions:
+
+RQ36
+RQ37
+RQ39
+RQ40
+RQ41
+RQ42
+RQ45
+RQ47
+RQ48
+RQ50
+RQ54
+
+Mapped article questions:
+
+ARQ1–ARQ6
+
+Book
+
+Primary questions:
+
+RQ26–RQ54
+BRQ6
+BRQ8
+
+Conference
+
+Primary questions:
+
+RQ36
+RQ39
+RQ40
+RQ42
+RQ44
+RQ47
+CRQ2–CRQ4
+
+⸻
+
+Initial Answer Status
+
+Questions	Answer Status
+RQ26–RQ35	Methodology drafted; validation pending
+RQ36–RQ39	Delphi evidence available; final coding pending
+RQ40–RQ44	Preliminary findings
+RQ45–RQ49	Proposed methodological controls
+RQ50–RQ51	Controlled replication required
+RQ52–RQ54	Preliminary comparative findings
+
+⸻
+
+Canonical Principle
+
+The Delphi study is not designed to prove that language models are experts.
+
+It is designed to test whether independently controlled models can:
+
+* identify common governance needs;
+* expose missing controls;
+* refine architecture;
+* reveal disagreement;
+* generate errors;
+* and help produce a more transparent research baseline.
+
+Its validity depends on preserving independence, provenance, dissent, correction, and the limits of model authority.
