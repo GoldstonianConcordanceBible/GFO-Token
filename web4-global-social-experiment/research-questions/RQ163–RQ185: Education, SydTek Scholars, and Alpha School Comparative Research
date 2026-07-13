@@ -1,0 +1,1114 @@
+RQ163–RQ185: Education, SydTek Scholars, and Alpha School Comparative Research
+
+Parent repository: GFO-token
+Folder: /web4-global-social-experiment/research-questions/
+Status: Canonical domain question file
+Version: 0.1.0-draft
+Master register: ../03_RESEARCH_QUESTION_REGISTER.md
+Directory guide: README.md
+
+⸻
+
+1. Purpose
+
+This file contains the research questions governing:
+
+1. SydTek Scholars and Web4 education;
+2. student understanding of artificial intelligence, identity, governance, consent, and law;
+3. student participation as learners, design participants, citizen scientists, or co-researchers;
+4. protections for minors and student-generated work;
+5. the comparative study of Alpha School and SydTek University’s educational model.
+
+Education is treated as both:
+
+* a major implementation domain for Web4 governance; and
+* a research environment requiring heightened ethical, privacy, consent, and institutional protections.
+
+No school, institution, student group, or educational provider should be represented as a formal research partner without documented authorization.
+
+⸻
+
+Part XIII — Education and SydTek Scholars
+
+RQ163 — Student Understanding of Web4
+
+Research Question
+
+How do students understand Web4, AI agents, digital identity, and decentralized governance?
+
+Short Title
+
+Student Web4 Literacy
+
+Purpose
+
+This question establishes a baseline for how students interpret the core concepts of the research program.
+
+Candidate Concepts
+
+* human agency;
+* AI agency;
+* digital identity;
+* authorization;
+* decentralized governance;
+* smart contracts;
+* tokenized coordination;
+* and human override.
+
+Potential Measures
+
+* pre-instruction assessment;
+* post-instruction assessment;
+* concept maps;
+* written explanations;
+* scenario responses;
+* and project artifacts.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ164
+RQ165
+RQ166
+RQ169
+RQ170
+
+⸻
+
+RQ164 — Human Agency Versus AI Agency
+
+Research Question
+
+How do students distinguish human agency from AI agency?
+
+Short Title
+
+Human and Machine Agency
+
+Purpose
+
+This question examines whether students can identify the difference between:
+
+* a person making a decision;
+* a person delegating a decision;
+* an AI recommending an action;
+* an AI executing an action;
+* and an institution authorizing an AI system.
+
+Candidate Learning Outcomes
+
+Students should be able to identify:
+
+* who initiated an action;
+* who authorized it;
+* who can stop it;
+* who is accountable;
+* and what technical system executed it.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ22
+RQ163
+RQ165
+RQ167
+
+⸻
+
+RQ165 — Student Understanding of Persona Rights
+
+Research Question
+
+How do students understand consent, synthetic media, persona rights, and digital replicas?
+
+Short Title
+
+Student Identity-Rights Literacy
+
+Purpose
+
+This question evaluates whether learners understand that separate identity elements may require separate authorization.
+
+Candidate Scenarios
+
+* use of a photograph;
+* synthetic voice;
+* avatar creation;
+* digital twin;
+* AI-generated video;
+* autonomous social-media posting;
+* and posthumous persona use.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ55
+RQ59
+RQ69
+RQ71
+RQ76
+RQ163
+
+⸻
+
+RQ166 — Project-Based Learning
+
+Research Question
+
+Does project-based learning improve student understanding of AI governance?
+
+Short Title
+
+Project-Based Web4 Education
+
+Potential Activities
+
+* design a consent schema;
+* evaluate a synthetic-media case;
+* build a governance proposal;
+* classify legal claims;
+* map a policy to a technical control;
+* and conduct a mock Delphi review.
+
+Potential Measures
+
+* concept accuracy;
+* systems thinking;
+* ethical reasoning;
+* transfer to new scenarios;
+* and quality of governance design.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ163
+RQ167
+RQ169
+RQ170
+
+⸻
+
+RQ167 — Governance Exercises and Systems Thinking
+
+Research Question
+
+Does participation in governance exercises improve systems thinking?
+
+Short Title
+
+Governance and Systems Thinking
+
+Candidate Exercise Types
+
+* stakeholder mapping;
+* authority mapping;
+* risk mapping;
+* reserved-matter analysis;
+* policy-to-code mapping;
+* and incident-response simulation.
+
+Evaluation Areas
+
+* recognition of interdependence;
+* second-order effects;
+* unintended consequences;
+* tradeoffs;
+* and feedback loops.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ164
+RQ166
+RQ169
+RQ171
+
+⸻
+
+RQ168 — Legal-Claim Literacy
+
+Research Question
+
+Can students identify the difference between enacted law, proposed law, and AI-generated legal claims?
+
+Short Title
+
+Student Legal Verification Skills
+
+Purpose
+
+This question evaluates whether students can detect one of the Delphi study’s most important error categories.
+
+Candidate Assessment Tasks
+
+* classify a statute;
+* classify a bill;
+* identify government guidance;
+* identify secondary commentary;
+* identify an unsupported AI summary;
+* and verify a legal claim against an official source.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ44
+RQ117
+RQ121
+RQ123
+RQ169
+
+⸻
+
+RQ169 — Repository-Based Digital Literacy
+
+Research Question
+
+Does exposure to repository-based governance improve digital literacy?
+
+Short Title
+
+Version-Control Literacy
+
+Candidate Skills
+
+* reading version history;
+* identifying canonical files;
+* distinguishing current and superseded content;
+* tracing a claim to evidence;
+* understanding pull requests;
+* and recognizing the difference between documentation and implementation.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ5
+RQ7
+RQ163
+RQ166
+RQ168
+
+⸻
+
+RQ170 — Learning Change Over Time
+
+Research Question
+
+How does student understanding change before and after instruction?
+
+Short Title
+
+Pre-Post Learning Change
+
+Potential Measures
+
+* factual understanding;
+* conceptual depth;
+* ethical reasoning;
+* confidence calibration;
+* legal-claim verification;
+* and application to unfamiliar scenarios.
+
+Methodological Requirements
+
+* age-appropriate instruments;
+* consistent administration;
+* deidentified analysis;
+* and clear distinction between instruction and formal research.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ163
+RQ166
+RQ168
+RQ169
+
+⸻
+
+RQ171 — Student-Identified Ethical Concerns
+
+Research Question
+
+What ethical concerns do students identify that professional reviewers or LLMs overlook?
+
+Short Title
+
+Student Ethical Insight
+
+Purpose
+
+This question examines whether students identify risks that are absent from expert or model-generated governance analysis.
+
+Candidate Areas
+
+* fairness;
+* coercion;
+* peer pressure;
+* identity theft;
+* school surveillance;
+* permanent records;
+* synthetic bullying;
+* and unequal access.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ33
+RQ52
+RQ167
+RQ174
+
+⸻
+
+RQ172 — Student Work Governance
+
+Research Question
+
+How should student work be consented, deidentified, stored, and published?
+
+Short Title
+
+Student Artifact Governance
+
+Required Controls
+
+* clear educational purpose;
+* consent or permission where required;
+* guardian authorization where required;
+* deidentification;
+* access controls;
+* retention schedule;
+* publication review;
+* and withdrawal procedure.
+
+Candidate Student Artifacts
+
+* essays;
+* code;
+* model prompts;
+* model outputs;
+* videos;
+* governance proposals;
+* assessments;
+* and design projects.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ63
+RQ129
+RQ132
+RQ135
+RQ173
+RQ175
+
+⸻
+
+RQ173 — Additional Protections for Minors
+
+Research Question
+
+What additional protections are necessary when students are minors?
+
+Short Title
+
+Minor Research and Education Protections
+
+Candidate Protections
+
+* parental or guardian permission;
+* age-appropriate explanation;
+* limited data collection;
+* no public identity mapping;
+* heightened security;
+* shorter retention;
+* no irreversible rights transfer by default;
+* and independent review.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ76
+RQ135
+RQ172
+RQ174
+RQ175
+
+⸻
+
+RQ174 — Students as Co-Researchers or Citizen Scientists
+
+Research Question
+
+Can SydTek Scholars serve as co-researchers, citizen scientists, or design participants?
+
+Short Title
+
+Student Research Participation
+
+Possible Roles
+
+learner
+design-participant
+citizen-scientist
+co-researcher
+contributor
+reviewer
+
+Required Conditions
+
+* age-appropriate role definition;
+* informed consent or permission;
+* supervision;
+* training;
+* contribution records;
+* privacy safeguards;
+* and appropriate credit.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ171
+RQ172
+RQ173
+RQ175
+
+⸻
+
+RQ175 — Student Credit and Compensation
+
+Research Question
+
+How should student contributions be credited and compensated?
+
+Short Title
+
+Student Contribution Recognition
+
+Candidate Contribution Types
+
+* research assistance;
+* coding;
+* design;
+* writing;
+* data annotation;
+* testing;
+* and governance participation.
+
+Candidate Recognition Methods
+
+* attribution;
+* certificates;
+* authorship where appropriate;
+* educational credit;
+* stipends;
+* prizes;
+* or contractual compensation.
+
+Required Safeguards
+
+* no coercive rights transfer;
+* guardian review where required;
+* transparent terms;
+* and separation of grades from commercial participation.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ105
+RQ116
+RQ172
+RQ173
+RQ174
+
+⸻
+
+Part XIV — Alpha School
+
+RQ176 — Alpha School Educational Model
+
+Research Question
+
+How does Alpha School conceptualize AI-supported education, student autonomy, mastery, and teacher roles?
+
+Short Title
+
+Alpha School Model
+
+Purpose
+
+This question establishes a descriptive account based on verifiable public or licensed material.
+
+Candidate Dimensions
+
+* instructional time;
+* mastery learning;
+* AI tutoring;
+* student autonomy;
+* adult guidance;
+* project work;
+* and assessment.
+
+Required Boundary
+
+Description must be based on evidence and must not imply partnership or endorsement.
+
+Status
+
+active
+
+Priority
+
+P3
+
+Related Questions
+
+RQ177
+RQ178
+RQ179
+RQ181
+
+⸻
+
+RQ177 — Public Evidence of Outcomes
+
+Research Question
+
+What public evidence supports claims about Alpha School outcomes?
+
+Short Title
+
+Alpha School Evidence Review
+
+Evidence Categories
+
+* institutional reports;
+* public assessment data;
+* third-party reporting;
+* research studies;
+* public presentations;
+* and parent or student accounts.
+
+Required Evaluation
+
+* source independence;
+* sample size;
+* comparability;
+* publication date;
+* methodology;
+* and limitations.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ176
+RQ179
+RQ180
+RQ184
+
+⸻
+
+RQ178 — Alpha School and SydTek University Comparison
+
+Research Question
+
+How does Alpha School differ from SydTek University’s educational model?
+
+Short Title
+
+Alpha School–SydTek Comparison
+
+Candidate Comparison Dimensions
+
+* age range;
+* institutional scope;
+* instructional philosophy;
+* mastery model;
+* governance;
+* research role;
+* AI use;
+* student data;
+* credentialing;
+* and community participation.
+
+Requirement
+
+The comparison must identify differences in context and avoid implying equivalence.
+
+Status
+
+active
+
+Priority
+
+P2
+
+Related Questions
+
+RQ176
+RQ179
+RQ180
+
+⸻
+
+RQ179 — Transferable Lessons
+
+Research Question
+
+What lessons from Alpha School are transferable to Web4 education?
+
+Short Title
+
+Transferable Educational Practices
+
+Candidate Areas
+
+* mastery progression;
+* personalized support;
+* student autonomy;
+* project-based learning;
+* and AI-supported instruction.
+
+Transferability Test
+
+A practice should be evaluated for:
+
+* learner population;
+* resources;
+* staffing;
+* technology;
+* governance;
+* privacy;
+* and educational purpose.
+
+Status
+
+active
+
+Priority
+
+P3
+
+Related Questions
+
+RQ176
+RQ177
+RQ178
+RQ180
+RQ181
+
+⸻
+
+RQ180 — Non-Transferable Lessons
+
+Research Question
+
+What lessons are not transferable due to differences in context, students, resources, curriculum, or governance?
+
+Short Title
+
+Limits of Educational Transfer
+
+Purpose
+
+This question prevents selective copying of practices without accounting for institutional differences.
+
+Potential Barriers
+
+* funding;
+* student demographics;
+* regulatory context;
+* staff capacity;
+* school size;
+* technology access;
+* research permissions;
+* and institutional mission.
+
+Status
+
+active
+
+Priority
+
+P3
+
+Related Questions
+
+RQ177
+RQ178
+RQ179
+RQ182
+
+⸻
+
+RQ181 — AI-Supported Education and Student Agency
+
+Research Question
+
+How do AI-supported educational models affect student agency?
+
+Short Title
+
+AI Education and Student Agency
+
+Candidate Positive Effects
+
+* personalization;
+* pacing control;
+* rapid feedback;
+* and expanded exploration.
+
+Candidate Risks
+
+* overdependence;
+* hidden recommendation logic;
+* surveillance;
+* reduced human interaction;
+* and unequal influence over learning pathways.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ164
+RQ176
+RQ179
+RQ182
+
+⸻
+
+RQ182 — Privacy, Data Ownership, and Accountability
+
+Research Question
+
+How do such models address privacy, data ownership, algorithmic accountability, and student identity?
+
+Short Title
+
+AI Education Data Governance
+
+Required Areas
+
+* student data collection;
+* model training;
+* profiling;
+* retention;
+* identity linkage;
+* parent access;
+* student access;
+* vendor responsibilities;
+* and appeal procedures.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ128
+RQ132
+RQ135
+RQ136
+RQ180
+RQ181
+
+⸻
+
+RQ183 — Institutional Permissions
+
+Research Question
+
+What institutional permissions are necessary before Alpha School content is used as licensed research data?
+
+Short Title
+
+Alpha School Permissions
+
+Candidate Requirements
+
+* content license;
+* data-use agreement;
+* institutional approval;
+* participant consent where applicable;
+* privacy review;
+* and publication conditions.
+
+Principle
+
+Public visibility does not automatically create licensed research-data rights.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ145
+RQ156
+RQ176
+RQ184
+RQ185
+
+⸻
+
+RQ184 — Public Content Versus Licensed or Human-Subject Data
+
+Research Question
+
+How should public Alpha School content be distinguished from licensed institutional content or human-subject data?
+
+Short Title
+
+Alpha School Source Classification
+
+Required Labels
+
+public-source
+licensed-content
+institutional-document
+participant-data
+human-subject-data
+restricted-data
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ6
+RQ129
+RQ177
+RQ183
+RQ185
+
+⸻
+
+RQ185 — Comparative Case Without Partnership Claims
+
+Research Question
+
+Can Alpha School serve as a comparative case without being represented as a research partner?
+
+Short Title
+
+Comparative Case and Non-Endorsement
+
+Preliminary Position
+
+Yes, when analysis is limited to lawfully usable public materials and clearly states:
+
+* no partnership;
+* no sponsorship;
+* no endorsement;
+* no access to private data;
+* and no institutional participation unless separately documented.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ176
+RQ183
+RQ184
+RQ193
+
+⸻
+
+Cross-Question Dependency Map
+
+RQ163 → RQ164, RQ165, RQ166, RQ169, RQ170
+RQ164 + RQ165 → RQ166, RQ167
+RQ168 → legal-literacy curriculum and evaluation
+RQ170 → learning-outcome analysis
+RQ171 → new ethics and governance questions
+RQ172 → RQ173, RQ174, RQ175
+RQ176 → RQ177, RQ178, RQ179
+RQ177 + RQ178 → RQ179, RQ180
+RQ181 → RQ182
+RQ183 → RQ184, RQ185
+
+⸻
+
+Prompt Routing Map
+
+User Intent	Primary Questions
+How should Web4 be taught to students?	RQ163–RQ170
+How do students understand AI agency?	RQ164
+How should students learn about synthetic media?	RQ165–RQ168
+Can student work enter the repository?	RQ172–RQ175
+Can minors be citizen scientists?	RQ173–RQ175
+What is Alpha School’s model?	RQ176–RQ177
+How does Alpha School compare with SydTek?	RQ178–RQ180
+How does AI education affect agency and privacy?	RQ181–RQ182
+Can public Alpha School content be studied?	RQ183–RQ185
+
+⸻
+
+Initial Answer Status
+
+Questions	Answer Status
+RQ163–RQ170	Proposed educational research framework
+RQ171	Exploratory
+RQ172–RQ175	Strong proposed student-protection controls
+RQ176–RQ182	Comparative research pending source review
+RQ183–RQ185	Strong permissions and non-endorsement boundaries
+
+⸻
+
+Priority Implementation Questions
+
+Before conducting formal student research or publishing student work, resolve:
+
+RQ163
+RQ164
+RQ165
+RQ168
+RQ170
+RQ172
+RQ173
+RQ174
+RQ175
+RQ182
+RQ183
+RQ184
+RQ185
+
+⸻
+
+Canonical Principle
+
+Education may serve as a major Web4 implementation and research environment, but students must not be treated as unprotected data sources.
+
+The governing chain is:
+
+age-appropriate-learning
+→ informed-participation
+→ minimal-data
+→ protected-student-work
+→ clear-credit
+→ ethical-research
+→ evidence-based-comparison
+→ no-false-partnership-claims
