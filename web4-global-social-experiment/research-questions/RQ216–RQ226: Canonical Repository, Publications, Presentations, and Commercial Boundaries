@@ -1,0 +1,835 @@
+RQ216–RQ226: Canonical Repository, Publications, Presentations, and Commercial Boundaries
+
+Parent repository: GFO-token
+Folder: /web4-global-social-experiment/research-questions/
+Status: Canonical domain question file
+Version: 0.1.0-draft
+Master register: ../03_RESEARCH_QUESTION_REGISTER.md
+Directory guide: README.md
+
+⸻
+
+1. Purpose
+
+This file contains the final eleven secondary research questions in the Global Social Experiment research agenda.
+
+These questions govern how canonical repository content becomes:
+
+* a scholarly article;
+* a book;
+* a conference presentation;
+* a Substack publication;
+* educational material;
+* a public website response;
+* a case study;
+* a consulting deliverable;
+* or a commercial implementation offering.
+
+The repository must remain the authoritative source layer for derivative outputs.
+
+Derivative outputs may summarize, interpret, organize, teach, or expand upon repository content, but they must not silently create new canonical findings.
+
+⸻
+
+Part XVIII — Research Outputs
+
+RQ216 — Repository as Canonical Source
+
+Research Question
+
+How should the repository serve as the canonical source for all derivative outputs?
+
+Short Title
+
+Canonical Repository Authority
+
+Purpose
+
+This question defines how books, articles, presentations, websites, reports, educational materials, and consulting outputs remain linked to the version-controlled research repository.
+
+Required Derivative Metadata
+
+Every material derivative output should identify:
+
+repository-name
+repository-path
+repository-version
+release-tag
+source-files
+source-chunks
+extraction-date
+author-or-editor
+modifications
+publication-status
+
+Canonical Rule
+
+When a derivative output conflicts with the current canonical repository:
+
+1. identify whether the derivative used an earlier release;
+2. determine whether the repository change was editorial, substantive, legal, technical, or breaking;
+3. update or annotate the derivative where appropriate;
+4. preserve the historical source version;
+5. and prevent outdated derivative content from silently overriding current canonical material.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ5
+RQ7
+RQ141
+RQ217
+RQ218
+RQ222
+
+⸻
+
+RQ217 — Repository-to-Book Mapping
+
+Research Question
+
+How should repository content map to book chapters?
+
+Short Title
+
+Book Chapter Source Mapping
+
+Purpose
+
+This question establishes a traceable relationship between the canonical repository and the Web4 book.
+
+Required Book-Mapping Fields
+
+book-part
+chapter-number
+chapter-title
+repository-files
+claim-ids
+research-questions
+evidence-ids
+case-studies
+content-status
+repository-version
+
+Book Content Categories
+
+Book material should be labeled as:
+
+research-finding
+theory
+proposed-standard
+implementation-guidance
+case-study
+historical-context
+interpretation
+theology
+mythology
+future-research
+
+Principle
+
+The book may use narrative and explanatory language, but it must not present unresolved research questions as settled findings.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ216
+RQ219
+RQ220
+RQ221
+RQ222
+RQ225
+
+⸻
+
+RQ218 — Repository-to-PhilArchive Mapping
+
+Research Question
+
+How should repository findings map to the PhilArchive article?
+
+Short Title
+
+Academic Article Source Mapping
+
+Purpose
+
+This question creates a narrow and defensible evidence map for the academic article.
+
+Primary Article Scope
+
+The article should focus on:
+
+* the modified multi-model Delphi methodology;
+* cross-model convergence;
+* persistent disagreement;
+* the effect of iterative review;
+* factual and legal hallucination risk;
+* version-controlled preservation of provenance and dissent;
+* and limitations of LLMs as structured reviewers.
+
+Required Article-Mapping Fields
+
+article-section
+article-question
+repository-source
+claim-id
+evidence-id
+delphi-round
+model-source
+verification-status
+citation
+limitations
+
+Excluded From Core Article Unless Essential
+
+* the entire 226-question agenda;
+* full token implementation;
+* broad theological exposition;
+* complete healthcare implementation;
+* commercial licensing details;
+* and unsupported claims that Web4 is already an accepted universal standard.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ36
+RQ39
+RQ42
+RQ47
+RQ48
+RQ216
+RQ220
+RQ226
+
+⸻
+
+RQ219 — Case-Study Selection by Output
+
+Research Question
+
+How should case studies be selected for the book versus the academic paper?
+
+Short Title
+
+Case-Study Selection Rules
+
+Purpose
+
+This question distinguishes broad narrative and applied cases from the smaller number of cases needed to support a focused scholarly contribution.
+
+Book Case-Study Criteria
+
+A case may be included in the book when it:
+
+* clarifies a major Web4 concept;
+* illustrates an implementation domain;
+* supports public understanding;
+* is appropriately classified;
+* and has sufficient permissions.
+
+Academic Article Case-Study Criteria
+
+A case may be included in the article when it:
+
+* directly addresses an article research question;
+* has strong provenance;
+* supports methodological analysis;
+* can be described concisely;
+* and does not introduce unnecessary scope.
+
+Required Case Labels
+
+actual
+anonymized
+composite
+hypothetical
+simulated
+documentary
+comparative
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ157
+RQ193
+RQ216
+RQ217
+RQ218
+RQ220
+
+⸻
+
+RQ220 — Academic Publication Threshold
+
+Research Question
+
+Which findings are sufficiently supported for academic publication?
+
+Short Title
+
+Scholarly Evidence Threshold
+
+Purpose
+
+This question establishes a minimum standard for presenting a repository conclusion as a scholarly finding.
+
+Candidate Publication Requirements
+
+* clear research question;
+* documented methodology;
+* traceable evidence;
+* transparent coding or analysis;
+* preserved dissent;
+* verified external factual claims;
+* explicit limitations;
+* and a defined scholarly contribution.
+
+Candidate Finding Categories
+
+publishable-finding
+publishable-with-limitations
+methodological-observation
+preliminary-result
+hypothesis-only
+future-research
+not-supported
+
+Publication Exclusions
+
+A claim should not be presented as an academic finding when it depends primarily on:
+
+* unsupported model output;
+* promotional language;
+* repeated internal assertions;
+* unverified legal claims;
+* unverifiable institutional participation;
+* or researcher preference without supporting evidence.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ23
+RQ29
+RQ30
+RQ218
+RQ219
+RQ221
+RQ226
+
+⸻
+
+RQ221 — Findings Versus Future Research
+
+Research Question
+
+Which findings should remain hypotheses or future research?
+
+Short Title
+
+Unresolved and Preliminary Claims
+
+Purpose
+
+This question prevents premature publication or implementation of claims that remain insufficiently supported.
+
+Keep as a Hypothesis When
+
+* supporting evidence is limited;
+* the claim is interpretive;
+* cross-model agreement is unstable;
+* alternative explanations remain strong;
+* legal verification is incomplete;
+* implementation evidence is absent;
+* or independent replication has not occurred.
+
+Keep as Future Research When
+
+* required data do not yet exist;
+* institutional permission is pending;
+* participant research is not approved;
+* technology is immature;
+* the question depends on future implementation;
+* or the issue is too broad for the current study.
+
+Required Labels
+
+hypothesis
+provisional-finding
+unresolved
+deferred
+future-research
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ10
+RQ23
+RQ25
+RQ34
+RQ220
+RQ225
+
+⸻
+
+RQ222 — Version Differences Between Repository and Publications
+
+Research Question
+
+How should differences between repository versions and published texts be documented?
+
+Short Title
+
+Publication Version Drift
+
+Purpose
+
+This question governs corrections, updates, historical citations, and differences between a frozen publication and a living repository.
+
+Required Version-Difference Record
+
+publication-id
+publication-date
+repository-version-used
+current-repository-version
+affected-section
+original-claim
+current-claim
+change-type
+reason
+materiality
+correction-status
+
+Change Types
+
+editorial
+clarification
+evidence-update
+legal-update
+technical-update
+methodology-update
+breaking-change
+retraction
+
+Principle
+
+A publication may accurately represent an earlier repository version while no longer representing the current framework.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ7
+RQ35
+RQ141
+RQ143
+RQ216
+RQ217
+RQ218
+
+⸻
+
+RQ223 — Harvard Conference Presentation
+
+Research Question
+
+What should be included in the Harvard conference presentation?
+
+Short Title
+
+Conference Presentation Scope
+
+Core Presentation Sequence
+
+1. the governance problem;
+2. the Global Social Experiment;
+3. the unknown-unknown problem;
+4. the modified LLM Delphi method;
+5. stable areas of convergence;
+6. persistent dissent;
+7. the proposed-law hallucination;
+8. policy-to-code conformance;
+9. documentation versus activation readiness;
+10. limitations;
+11. and next research steps.
+
+Required Claims Discipline
+
+Every material factual, legal, institutional, or quantitative statement should be included in a speaker-claims register.
+
+Exclusions
+
+The presentation should avoid:
+
+* attempting to explain the entire 226-question agenda;
+* unsupported institutional partnership claims;
+* unverified legal conclusions;
+* and overly detailed commercial licensing material.
+
+Status
+
+active
+
+Priority
+
+P1
+
+Related Questions
+
+RQ36
+RQ39
+RQ42
+RQ44
+RQ104
+RQ216
+CRQ1–CRQ8
+
+⸻
+
+RQ224 — Research, Implementation, and Commercial Boundaries
+
+Research Question
+
+How should the project distinguish research results from implementation plans and commercial offerings?
+
+Short Title
+
+Research-Commercial Separation
+
+Required Content Classes
+
+research-result
+research-question
+hypothesis
+proposed-standard
+implementation-guidance
+approved-policy
+technical-product
+consulting-service
+licensed-material
+marketing-content
+
+Required Disclosure
+
+Commercial materials should identify:
+
+* which repository content they derive from;
+* what additional service is being sold;
+* whether professional review is included;
+* what remains experimental;
+* and what the purchase does not certify.
+
+Principle
+
+Commercial availability does not prove:
+
+* scholarly validity;
+* legal compliance;
+* technical security;
+* institutional adoption;
+* or operational readiness.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ3
+RQ4
+RQ142
+RQ145
+RQ149
+RQ151
+RQ216
+
+⸻
+
+RQ225 — Expanding the Research in the Book
+
+Research Question
+
+How should the book expand the research without overstating findings?
+
+Short Title
+
+Responsible Book Expansion
+
+Permitted Expansion
+
+The book may add:
+
+* historical context;
+* explanatory examples;
+* implementation scenarios;
+* clearly labeled interpretation;
+* case narratives;
+* diagrams;
+* ethical reflection;
+* and future research directions.
+
+Required Safeguards
+
+The book should:
+
+* preserve evidence labels;
+* cite canonical files;
+* identify unresolved issues;
+* distinguish proposed standards from law;
+* separate theology from empirical findings;
+* identify hypothetical cases;
+* and avoid claiming universal adoption.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ217
+RQ219
+RQ220
+RQ221
+RQ222
+BRQ1–BRQ8
+
+⸻
+
+RQ226 — Focused PhilArchive Contribution
+
+Research Question
+
+How should the PhilArchive article remain focused enough to make a clear scholarly contribution?
+
+Short Title
+
+Academic Article Scope Control
+
+Recommended Central Contribution
+
+The article should evaluate whether a modified multi-model LLM Delphi process can support the design and critical review of an emerging governance architecture while preserving:
+
+* provenance;
+* dissent;
+* legal verification;
+* model error;
+* and methodological limitations.
+
+Recommended Primary Questions
+
+ARQ1
+ARQ2
+ARQ3
+ARQ4
+ARQ5
+ARQ6
+
+Recommended Exclusions
+
+Unless directly relevant to the core analysis, exclude detailed treatment of:
+
+* every Web4 application domain;
+* full DAO token economics;
+* broad mythology;
+* complete educational curriculum;
+* healthcare deployment design;
+* licensing prices;
+* and frontend engineering.
+
+Success Criteria
+
+The article should make one clear contribution rather than attempting to prove the entire Web4 framework.
+
+Status
+
+active
+
+Priority
+
+P0
+
+Related Questions
+
+RQ218
+RQ220
+RQ221
+RQ223
+RQ225
+ARQ1–ARQ6
+
+⸻
+
+Derivative Output Authority Matrix
+
+Output	Canonical?	May Interpret?	May Create New Claims?	Required Source Mapping
+Repository	Yes	Yes, when labeled	Yes, through review	Native
+PhilArchive article	No	Limited	No silent canonical claims	Required
+Book	No	Yes	No silent canonical claims	Required
+Conference presentation	No	Limited	No	Required
+Substack	No	Yes	No silent canonical claims	Required
+Public website answer	No	Limited by retrieval	No	Automatic
+Educational material	No	Yes	No silent canonical claims	Required
+Consulting deliverable	Client-specific	Yes	Client-specific only	Required
+Marketing material	No	Limited	No factual authority	Recommended
+
+⸻
+
+Output-to-Question Mapping
+
+Repository
+
+PRQ1
+RQ1–RQ226
+
+PhilArchive Article
+
+ARQ1–ARQ6
+selected RQ26–RQ54
+selected RQ55–RQ76
+selected RQ138–RQ151
+RQ216
+RQ218
+RQ220
+RQ221
+RQ222
+RQ226
+
+Book
+
+BRQ1–BRQ8
+RQ1–RQ226 where supported
+
+Conference Presentation
+
+CRQ1–CRQ8
+RQ36
+RQ39
+RQ42
+RQ44
+RQ94
+RQ104
+RQ223
+
+Public Website
+
+all questions
+subject to access, evidence, privacy, and version controls
+
+⸻
+
+Prompt Routing Map
+
+User Intent	Primary Questions
+Which source is canonical?	RQ216
+How does the repository map to the book?	RQ217
+What belongs in the PhilArchive article?	RQ218, RQ220, RQ226
+Which case studies belong in each output?	RQ219
+Is this finding ready for publication?	RQ220–RQ221
+What changed after publication?	RQ222
+What belongs in the conference presentation?	RQ223
+Is this research or a commercial service?	RQ224
+How can the book expand responsibly?	RQ225
+How do we prevent article scope drift?	RQ226
+
+⸻
+
+Initial Answer Status
+
+Questions	Answer Status
+RQ216–RQ219	Proposed canonical mapping framework
+RQ220–RQ221	Proposed scholarly evidence thresholds
+RQ222	Proposed publication-version control
+RQ223	Preliminary conference scope
+RQ224	Strong proposed separation principle
+RQ225–RQ226	Proposed publication discipline
+
+⸻
+
+Required Output Registers
+
+The repository should eventually maintain:
+
+publications/book/chapter-map.csv
+publications/book/source-map.csv
+publications/philarchive/evidence-map.csv
+publications/philarchive/claim-map.csv
+publications/conference/speaker-claims-register.csv
+publications/substack/publication-index.csv
+evidence/publication-version-register.csv
+
+⸻
+
+Canonical Principle
+
+The repository is the source of record.
+
+The article, book, conference presentation, website, curriculum, and consulting materials are controlled derivatives.
+
+The governing chain is:
+
+canonical-source
+→ versioned-claim
+→ evidence-map
+→ output-specific-selection
+→ explicit-interpretation
+→ limitations
+→ publication
+→ correction-and-version-tracking
+
+A derivative output may make the research easier to understand, but it must not make the evidence appear stronger than it is.
